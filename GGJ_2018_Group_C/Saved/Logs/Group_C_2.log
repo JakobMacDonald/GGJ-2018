@@ -310,3 +310,26 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.41.56:634][979]SourceControl:  rewrite GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset (100%)
 [2018.01.27-13.41.56:634][979]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
 [2018.01.27-13.41.56:639][979]SourceControl: Commited [master 6306d31] Test.
+[2018.01.27-13.42.38:510][340]SourceControl: On branch master
+[2018.01.27-13.42.38:510][340]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-13.42.38:510][340]SourceControl: and have 5 and 5 different commits each, respectively.
+[2018.01.27-13.42.38:510][340]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-13.42.38:510][340]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.SKEL_BP_Red_ZoneTest_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.42:343][340]LogSavePackage: Save=1452.58ms
+[2018.01.27-13.42.42:343][340]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_ZoneTest34C025CA459F24332444FBB1595D0F04.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.uasset'
+[2018.01.27-13.42.42:397][340]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.uasset
+[2018.01.27-13.42.42:829][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset" SILENT=true
+[2018.01.27-13.42.43:949][340]LogSavePackage: Save=28.79ms
+[2018.01.27-13.42.43:949][340]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_ZoneA6C6C5BA459CA5EFB5FE13AC81EA961F.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset'
+[2018.01.27-13.42.44:016][340]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset
+[2018.01.27-13.42.49:402][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.42.57:402][797]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.42.57:550][797]SourceControl: [master 9acaea3] update
+[2018.01.27-13.42.57:550][797]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.42.57:550][797]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset (100%)
+[2018.01.27-13.42.57:550][797]SourceControl:  copy GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/{BP_Red_Zone.uasset => BP_Red_ZoneTest.uasset} (83%)
+[2018.01.27-13.42.57:556][797]SourceControl: Commited [master 9acaea3] update.
