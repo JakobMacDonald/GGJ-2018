@@ -288,3 +288,25 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.39.55:638][819]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.27-13.39.55:638][819]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset
 [2018.01.27-13.39.55:643][819]SourceControl: Commited [master 2ef6a21] update.
+[2018.01.27-13.41.40:029][643]SourceControl: On branch master
+[2018.01.27-13.41.40:029][643]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-13.41.40:029][643]SourceControl: and have 3 and 5 different commits each, respectively.
+[2018.01.27-13.41.40:029][643]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-13.41.40:029][643]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.41.40:182][643]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-13.41.41:472][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticleTjhing" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset" SILENT=true
+[2018.01.27-13.41.42:308][643]LogSavePackage: Save=800.08ms
+[2018.01.27-13.41.42:308][643]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleTjhingCEE5C91241B8DEA5B1AD07A6D38398B3.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset'
+[2018.01.27-13.41.43:119][643]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.41.43:546][643]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-13.41.43:582][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticle" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset" SILENT=true
+[2018.01.27-13.41.44:651][643]LogSavePackage: Save=27.27ms
+[2018.01.27-13.41.44:651][643]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleA69A340E4DA7D17354E42D835338C5E1.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset'
+[2018.01.27-13.41.44:726][643]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset
+[2018.01.27-13.41.49:086][979]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.41.56:492][979]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.41.56:634][979]SourceControl: [master 6306d31] Test
+[2018.01.27-13.41.56:634][979]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.41.56:634][979]SourceControl:  rewrite GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset (100%)
+[2018.01.27-13.41.56:634][979]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.41.56:639][979]SourceControl: Commited [master 6306d31] Test.
