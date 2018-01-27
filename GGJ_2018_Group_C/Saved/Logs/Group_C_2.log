@@ -282,3 +282,9 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.31.52:316][348]SourceControl: On branch master
 [2018.01.27-13.31.52:316][348]SourceControl: Your branch is up-to-date with 'origin/master'.
 [2018.01.27-13.31.52:316][348]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.39.46:436][819]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.39.55:507][819]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.39.55:638][819]SourceControl: [master 2ef6a21] update
+[2018.01.27-13.39.55:638][819]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.39.55:638][819]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset
+[2018.01.27-13.39.55:643][819]SourceControl: Commited [master 2ef6a21] update.
