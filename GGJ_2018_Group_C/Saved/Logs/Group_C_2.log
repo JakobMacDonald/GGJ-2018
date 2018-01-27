@@ -18752,3 +18752,184 @@ LogInit: Object subsystem initialized
 [2018.01.27-19.23.54:316][ 40]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap
 [2018.01.27-19.23.54:316][ 40]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_BuiltData.uasset
 [2018.01.27-19.23.54:321][ 40]SourceControl: Commited [master 4789dff] update.
+[2018.01.27-19.42.23:304][442]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-19.42.24:886][442]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.42.24:886][442]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-19.42.24:887][442]PIE: New page: PIE session: ThirdPersonExampleMapBackUP (27 Jan 2018 19:42:24)
+[2018.01.27-19.42.24:887][442]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP
+[2018.01.27-19.42.24:909][442]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022092s)
+[2018.01.27-19.42.24:910][442]LogAIModule: Creating AISystem for world ThirdPersonExampleMapBackUP
+[2018.01.27-19.42.24:910][442]LogPlayLevel: PIE: World Init took: (0.001230s)
+[2018.01.27-19.42.24:910][442]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP (0.023809s)
+[2018.01.27-19.42.24:936][442]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-19.42.24:945][442]LogInit: FAudioDevice initialized.
+[2018.01.27-19.42.24:983][442]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-19.42.24:989][442]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP up for play (max tick rate 0) at 2018.01.27-19.42.24
+[2018.01.27-19.42.24:990][442]LogWorld: Bringing up level for play took: 0.005802
+[2018.01.27-19.42.24:991][442]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-19.42.24:992][442]LogBlueprintUserMessages: [AI_Enemy2] Doc
+[2018.01.27-19.42.24:992][442]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 3
+[2018.01.27-19.42.24:993][442]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_0.Red_zone' 
+[2018.01.27-19.42.24:993][442]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP -0.405
+[2018.01.27-19.42.24:993][442]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.42.26:328][578]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.26:379][584]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.30:301][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.30:342][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.31:119][143]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.31:152][147]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.31:613][199]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 3
+[2018.01.27-19.42.31:785][219]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.31:795][220]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.31:881][230]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.32:464][298]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.32:472][299]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.32:514][304]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.32:881][347]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.32:906][350]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.33:208][385]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.33:295][395]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.33:974][474]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.34:147][494]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.34:155][495]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.34:208][501]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.34:621][550]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 2
+[2018.01.27-19.42.34:622][550]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_1.Red_zone' 
+[2018.01.27-19.42.36:361][750]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.36:415][756]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.36:432][758]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.36:486][764]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.42.41:624][362]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 2
+[2018.01.27-19.42.44:626][717]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 1
+[2018.01.27-19.42.44:626][717]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_2.Red_zone' 
+[2018.01.27-19.42.46:613][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.46:613][954]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.27-19.42.46:613][954]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.46:613][954]LogBlueprintUserMessages: [Enemy_AI_Controller_C_0] AI_Enemy
+[2018.01.27-19.42.47:536][ 55]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.47:581][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.48:803][193]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.48:812][194]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.48:820][195]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.48:903][205]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.48:912][206]LogBlueprintUserMessages: [ThirdPersonCharacter_C_0] DEAD
+[2018.01.27-19.42.51:634][529]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 1
+[2018.01.27-19.42.54:638][885]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 3
+[2018.01.27-19.42.54:639][885]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_3.Red_zone' 
+[2018.01.27-19.43.00:244][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.00:245][553]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.27-19.43.00:245][553]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.00:245][553]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.27-19.43.00:245][553]LogBlueprintUserMessages: [Enemy_AI_Controller_C_1] AI_Enemy2
+[2018.01.27-19.43.01:645][711]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 3
+[2018.01.27-19.43.02:786][840]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.02:819][844]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:306][902]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:315][903]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:323][904]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:331][905]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:398][913]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:668][945]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:685][947]LogBlueprintUserMessages: [ThirdPersonCharacter_C_1] DEAD
+[2018.01.27-19.43.03:873][969]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.43.03:917][969]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.44.58:196][632]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.01.27-19.45.10:612][209]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.27-19.45.15:451][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.01.27-19.45.19:596][293]LogSavePackage: Save=2398.17ms
+[2018.01.27-19.45.19:596][293]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacter6D37BD4D49F41E9208053EBF08CC5244.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.27-19.45.19:670][293]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.27-19.45.20:733][343]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-19.45.20:860][343]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.20:860][343]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-19.45.20:860][343]PIE: New page: PIE session: ThirdPersonExampleMapBackUP (27 Jan 2018 19:45:20)
+[2018.01.27-19.45.20:860][343]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP
+[2018.01.27-19.45.20:882][343]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021695s)
+[2018.01.27-19.45.20:882][343]LogAIModule: Creating AISystem for world ThirdPersonExampleMapBackUP
+[2018.01.27-19.45.20:883][343]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2018.01.27-19.45.20:883][343]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP (0.023208s)
+[2018.01.27-19.45.20:941][343]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-19.45.20:950][343]LogInit: FAudioDevice initialized.
+[2018.01.27-19.45.20:986][343]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-19.45.20:991][343]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP up for play (max tick rate 0) at 2018.01.27-19.45.20
+[2018.01.27-19.45.20:992][343]LogWorld: Bringing up level for play took: 0.006055
+[2018.01.27-19.45.20:994][343]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-19.45.20:994][343]LogBlueprintUserMessages: [AI_Enemy2] Doc
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 0
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] Same
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 0
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] Same
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 0
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] Same
+[2018.01.27-19.45.20:995][343]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 2
+[2018.01.27-19.45.20:995][343]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_0.Red_zone' 
+[2018.01.27-19.45.20:998][343]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP -0.405
+[2018.01.27-19.45.21:000][343]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.22:459][390]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.22:510][392]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:018][412]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:046][413]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:075][414]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:099][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:125][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:478][429]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:503][430]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:683][437]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:708][438]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-19.45.23:922][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.24:114][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.27:784][596]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.27-19.45.27:905][596]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.27:905][596]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-19.45.27:935][596]LogPlayLevel: [PlayLevel] Compiling BP_Vent before play...
+[2018.01.27-19.45.28:119][596]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.27-19.45.28:198][596]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.27-19.45.28:410][596]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.27-19.45.28:435][596]LogPlayLevel: [PlayLevel]   Compiling Work as a dependent...
+[2018.01.27-19.45.28:440][596]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.27-19.45.30:072][596]LogPlayLevel: PlayLevel: Blueprint regeneration took 2167 ms (6 blueprints)
+[2018.01.27-19.45.30:073][596]PIE: New page: PIE session: ThirdPersonExampleMapBackUP (27 Jan 2018 19:45:30)
+[2018.01.27-19.45.30:073][596]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP
+[2018.01.27-19.45.30:094][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020740s)
+[2018.01.27-19.45.30:094][596]LogAIModule: Creating AISystem for world ThirdPersonExampleMapBackUP
+[2018.01.27-19.45.30:095][596]LogPlayLevel: PIE: World Init took: (0.001081s)
+[2018.01.27-19.45.30:095][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP (0.022223s)
+[2018.01.27-19.45.30:148][596]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-19.45.30:157][596]LogInit: FAudioDevice initialized.
+[2018.01.27-19.45.30:195][596]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-19.45.30:201][596]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP up for play (max tick rate 0) at 2018.01.27-19.45.30
+[2018.01.27-19.45.30:202][596]LogWorld: Bringing up level for play took: 0.006035
+[2018.01.27-19.45.30:203][596]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-19.45.30:203][596]LogBlueprintUserMessages: [AI_Enemy2] Doc
+[2018.01.27-19.45.30:204][596]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 1
+[2018.01.27-19.45.30:205][596]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.BP_Red_ZoneTest_C_0.Red_zone' 
+[2018.01.27-19.45.30:207][596]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMapBackUP 2.804
+[2018.01.27-19.45.30:208][596]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.37:020][841]LogBlueprintUserMessages: [BP_Spawn_RED_Zone_100] 1
+[2018.01.27-19.45.39:377][929]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.45.39:574][929]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.ThirdPersonExampleMapBackUP:PersistentLevel.ThirdPersonExampleMapBackUP'
+[2018.01.27-19.46.17:979][ 84]LogSavePackage: Save=5715.06ms
+[2018.01.27-19.46.17:979][ 84]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMapBackUP_Auto37CCFB1674E60657052104AA78D1EBEBC.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_Auto3.umap'
+[2018.01.27-19.46.18:727][ 84]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_Auto3.umap
+[2018.01.27-19.46.20:298][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP' took 13.907
+[2018.01.27-19.46.20:298][ 84]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 13.907
+[2018.01.27-19.46.20:313][ 84]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.27-19.46.20:377][ 84]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.27-19.46.20:377][ 84]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.27-19.46.24:466][ 84]LogSavePackage: Save=2407.13ms
+[2018.01.27-19.46.24:466][ 84]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacter_Auto34F45DB904B70BE73165212B1CA3C0C4F.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset'
+[2018.01.27-19.46.24:486][ 84]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto3.uasset
+[2018.01.27-19.46.24:486][ 84]LogFileHelpers: Auto-saving content packages took 4.179
+[2018.01.27-20.30.39:433][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.01.27-20.30.42:777][217]LogSavePackage: Save=2408.91ms
+[2018.01.27-20.30.42:777][217]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacterD6F5777945B0F9A45962F08754AEA16B.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.27-20.30.42:849][217]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.27-20.30.53:026][217]LogSavePackage: Save=5476.78ms
+[2018.01.27-20.30.53:026][217]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMapBackUP20AF6EB243CC537E2DAD75A6ECCF5CC5.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap'
+[2018.01.27-20.30.56:083][217]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap
+[2018.01.27-20.30.57:053][217]LogFileHelpers: Saving map 'ThirdPersonExampleMapBackUP' took 13.827
+[2018.01.27-20.31.02:804][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-20.31.22:861][674]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-20.31.23:871][674]SourceControl: [master 7d6e8b4] Update
+[2018.01.27-20.31.23:871][674]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-20.31.23:877][674]SourceControl: Commited [master 7d6e8b4] Update.
