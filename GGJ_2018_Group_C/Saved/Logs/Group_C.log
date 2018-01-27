@@ -304,3 +304,16 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.37.43:535][996]SourceControl: Commited [master dbd479c] UPdate.
 [2018.01.27-13.37.57:079][812]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
 [2018.01.27-13.37.57:207][812]EditorErrors: Warning: No assets to check in!
+[2018.01.27-13.39.24:069][212]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.39.24:187][212]EditorErrors: Warning: No assets to check in!
+[2018.01.27-13.39.27:676][495]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.27-13.39.29:502][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Actors/Thing" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/Thing.uasset" SILENT=true
+[2018.01.27-13.39.29:762][700]LogSavePackage: Save=244.47ms
+[2018.01.27-13.39.29:762][700]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Thing4C279DBC48DA6B50F68EF2954F60C914.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/Thing.uasset'
+[2018.01.27-13.39.29:793][700]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/Thing.uasset
+[2018.01.27-13.39.32:209][921]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.39.36:659][921]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.39.36:713][921]SourceControl: [master 616b78a] Update
+[2018.01.27-13.39.36:713][921]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.39.36:713][921]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/Thing.uasset
+[2018.01.27-13.39.36:722][921]SourceControl: Commited [master 616b78a] Update.
