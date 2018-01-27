@@ -525,3 +525,27 @@ LogInit: Object subsystem initialized
 [2018.01.27-10.57.10:572][  1]LogAssetRegistry: Asset discovery search completed in 30.5223 seconds
 [2018.01.27-10.57.10:574][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.01.27-10.57.10:574][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
+[2018.01.27-11.01.50:532][221]SourceControl: On branch master
+[2018.01.27-11.01.50:532][221]SourceControl: Your branch is ahead of 'origin/master' by 1 commit.
+[2018.01.27-11.01.50:532][221]SourceControl:   (use "git push" to publish your local commits)
+[2018.01.27-11.01.50:532][221]SourceControl: Untracked files:
+[2018.01.27-11.01.50:532][221]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Content/StarterContent/
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/AssetRegistryCache/
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/CachedAssetRegistry.bin
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/GameplayTags.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/GameplayTagsList.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/InternationalizationExport.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/LocalizationServiceSettings.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/SourceControlSettings.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/TemplateDefs.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/Config/CoalescedSourceConfigs/TranslationPickerSettings.ini
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Intermediate/ReimportCache/
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Saved/Autosaves/
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Saved/Backup/
+[2018.01.27-11.01.50:532][221]SourceControl: 	GGJ_2018_Group_C/Saved/Config/Windows/GameUserSettings.ini
+[2018.01.27-11.01.50:532][221]SourceControl: nothing added to commit but untracked files present (use "git add" to track)
+[2018.01.27-11.01.54:077][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-11.01.54:199][617]EditorErrors: Warning: No assets to check in!
+[2018.01.27-11.02.27:922][120]LogRenderer: Reallocating scene render targets to support 1208x1044 Format 10 NumSamples 1 (Frame:25190).
+[2018.01.27-11.02.30:974][449]LogRenderer: Reallocating scene render targets to support 1212x1044 Format 10 NumSamples 1 (Frame:25427).
