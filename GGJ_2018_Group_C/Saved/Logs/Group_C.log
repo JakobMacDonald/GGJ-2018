@@ -2692,3 +2692,395 @@ LogInit: Object subsystem initialized
 [2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset
 [2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
 [2018.01.27-12.53.03:338][211]SourceControl: Commited [master 644c7d6] Update.
+[2018.01.27-12.54.06:192][656]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.54.06:298][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.54.06:298][656]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-12.54.06:363][656]LogPlayLevel: [PlayLevel] Compiling BP_Red_Zone before play...
+[2018.01.27-12.54.06:432][656]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.27-12.54.06:515][656]LogPlayLevel: [PlayLevel]   Compiling AI_HUD as a dependent...
+[2018.01.27-12.54.06:520][656]LogPlayLevel: [PlayLevel]   Compiling Enemy_AI_Controller as a dependent...
+[2018.01.27-12.54.06:562][656]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.27-12.54.07:474][656]LogPlayLevel: PlayLevel: Blueprint regeneration took 1175 ms (5 blueprints)
+[2018.01.27-12.54.07:474][656]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:54:07)
+[2018.01.27-12.54.07:474][656]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.54.07:496][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021578s)
+[2018.01.27-12.54.07:497][656]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.54.07:497][656]LogPlayLevel: PIE: World Init took: (0.001073s)
+[2018.01.27-12.54.07:497][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023052s)
+[2018.01.27-12.54.07:520][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.54.07:529][656]LogInit: FAudioDevice initialized.
+[2018.01.27-12.54.07:580][656]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.54.07:584][656]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.54.07
+[2018.01.27-12.54.07:585][656]LogWorld: Bringing up level for play took: 0.004777
+[2018.01.27-12.54.07:587][656]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.54.07:593][656]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.904
+[2018.01.27-12.54.07:593][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.54.09:102][798]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.09:114][799]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.09:124][800]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.09:134][801]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.10:153][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.10:237][916]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.10:846][981]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.19:678][907]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.19:718][911]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.21:349][ 79]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.54.24:093][363]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.54.24:204][363]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.55.59:410][484]LogEditorTransaction: Undo Modify Component(s)
+[2018.01.27-12.55.59:441][484]LogMaterial: Missing cached shader map for material M_PossedParticle, compiling. 
+[2018.01.27-12.55.59:501][484]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.56.01:921][650]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.27-12.56.01:921][650]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-12.56.01:921][650]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.27-12.56.01:921][650]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.56.03:368][754]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.56.03:368][754]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.56.03:368][754]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.56.03:368][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.56.41:127][ 95]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.56.41:187][ 95]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.41:188][ 95]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.27-12.56.41:190][ 95]LogPlayLevel: [PlayLevel] Compiling BP_Door before play...
+[2018.01.27-12.56.41:529][ 95]LogPlayLevel: PlayLevel: Blueprint regeneration took 340 ms (1 blueprints)
+[2018.01.27-12.56.41:529][ 95]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:56:41)
+[2018.01.27-12.56.41:529][ 95]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.56.41:551][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021902s)
+[2018.01.27-12.56.41:552][ 95]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.56.41:552][ 95]LogPlayLevel: PIE: World Init took: (0.001326s)
+[2018.01.27-12.56.41:553][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023662s)
+[2018.01.27-12.56.41:576][ 95]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.56.41:585][ 95]LogInit: FAudioDevice initialized.
+[2018.01.27-12.56.41:637][ 95]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.56.41:641][ 95]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.56.41
+[2018.01.27-12.56.41:642][ 95]LogWorld: Bringing up level for play took: 0.004599
+[2018.01.27-12.56.41:644][ 95]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.56.41:649][ 95]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.944
+[2018.01.27-12.56.41:650][ 95]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.43:333][248]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.43:334][248]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:344][249]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:354][250]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:364][251]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:375][252]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.43:375][252]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:385][253]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:396][254]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:406][255]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:416][256]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:427][257]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:437][258]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:447][259]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:457][260]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:466][261]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:477][262]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:487][263]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:497][264]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:508][265]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:518][266]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:529][267]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:539][268]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:548][269]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:558][270]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:568][271]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:580][272]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:590][273]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:600][274]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.43:610][275]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.49:927][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.50:020][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.57:811][568]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.56.57:868][568]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.57:868][568]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-12.56.57:868][568]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:56:57)
+[2018.01.27-12.56.57:868][568]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.56.57:890][568]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021789s)
+[2018.01.27-12.56.57:891][568]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.56.57:892][568]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2018.01.27-12.56.57:892][568]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023236s)
+[2018.01.27-12.56.57:916][568]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.56.57:924][568]LogInit: FAudioDevice initialized.
+[2018.01.27-12.56.57:973][568]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.56.57:977][568]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.56.57
+[2018.01.27-12.56.57:990][568]LogWorld: Bringing up level for play took: 0.016148
+[2018.01.27-12.56.57:991][568]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.56.57:996][568]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.712
+[2018.01.27-12.56.57:996][568]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.56.59:142][671]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:152][672]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:162][673]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:172][674]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:181][675]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:192][676]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:201][677]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:212][678]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:225][679]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:237][680]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:246][681]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:257][682]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:268][683]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:278][684]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:288][685]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:297][686]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.59:297][686]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:308][687]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:319][688]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:329][689]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:339][690]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:349][691]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:360][692]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:370][693]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:381][694]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.59:381][694]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:392][695]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:402][696]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:414][697]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:424][698]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:434][699]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:444][700]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:455][701]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:464][702]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:474][703]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:484][704]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:495][705]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:505][706]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:515][707]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:526][708]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:536][709]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:546][710]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:556][711]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:566][712]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:577][713]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:587][714]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:597][715]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:607][716]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:619][717]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:629][718]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:640][719]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:649][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.59:650][720]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:661][721]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:671][722]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:681][723]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:692][724]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:703][725]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:712][726]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:724][727]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:734][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.56.59:734][728]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:745][729]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:755][730]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:765][731]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:776][732]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:787][733]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:797][734]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:808][735]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:818][736]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:829][737]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:840][738]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:850][739]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:860][740]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:870][741]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:880][742]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:964][750]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:974][751]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:984][752]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.56.59:995][753]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:006][754]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:016][755]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:026][756]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:036][757]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:046][758]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:056][759]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:065][760]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:075][761]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:085][762]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:095][763]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:105][764]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:115][765]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:125][766]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:137][767]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:148][768]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:158][769]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:168][770]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:179][771]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:190][772]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:199][773]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:209][774]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:219][775]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:229][776]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:239][777]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:248][778]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:259][779]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:269][780]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:279][781]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:290][782]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:300][783]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:311][784]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:322][785]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:332][786]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:343][787]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:353][788]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:363][789]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:374][790]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:384][791]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:394][792]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:404][793]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:414][794]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:425][795]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:435][796]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:446][797]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:457][798]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:467][799]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:477][800]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:488][801]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:498][802]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:507][803]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:517][804]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:527][805]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:537][806]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:547][807]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:557][808]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:568][809]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:578][810]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:589][811]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:599][812]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:609][813]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:619][814]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:629][815]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:639][816]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:648][817]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:659][818]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:668][819]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:678][820]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:690][821]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:699][822]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:710][823]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:720][824]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:730][825]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:740][826]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:749][827]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:759][828]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:769][829]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:779][830]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:788][831]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:798][832]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.57.00:798][832]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:808][833]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:817][834]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:827][835]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:837][836]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.57.00:837][836]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.00:847][837]LogBlueprintUserMessages: [AI_Enemy_290] Hello
+[2018.01.27-12.57.02:126][962]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.57.02:695][ 19]LogBlueprintUserMessages: [ThirdPersonCharacter_167] DEAD
+[2018.01.27-12.57.05:083][264]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.05:201][264]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.10:654][828]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.57.11:762][927]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.57.12:663][927]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.57.12:745][927]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.57.12:840][927]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.57.12:941][927]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.57.14:151][927]TextureStreamingBuild: Display: Compiling optional shaders took 1.219 seconds.
+[2018.01.27-12.57.19:713][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.57.19:794][927]LogSavePackage: Save=23.50ms
+[2018.01.27-12.57.19:794][927]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticleD5399B4F41A792462C9355A178A76CEB.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.57.19:825][927]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.57.19:844][927]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.57.19:844][927]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.57.19:844][927]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.57.19:844][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.57.23:655][331]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.57.23:713][331]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.23:713][331]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-12.57.23:713][331]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:57:23)
+[2018.01.27-12.57.23:713][331]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.57.23:736][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022416s)
+[2018.01.27-12.57.23:737][331]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.57.23:737][331]LogPlayLevel: PIE: World Init took: (0.001159s)
+[2018.01.27-12.57.23:737][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.023999s)
+[2018.01.27-12.57.23:763][331]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.57.23:770][331]LogInit: FAudioDevice initialized.
+[2018.01.27-12.57.23:820][331]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.57.23:824][331]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.57.23
+[2018.01.27-12.57.23:825][331]LogWorld: Bringing up level for play took: 0.004643
+[2018.01.27-12.57.23:827][331]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.57.23:831][331]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.12
+[2018.01.27-12.57.23:832][331]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.29:864][928]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.29:972][928]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.41:084][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.57.41:718][ 86]LogSavePackage: Save=591.19ms
+[2018.01.27-12.57.41:718][ 86]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog020CD7E944CF2AEC51376894DA5C4917.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.57.41:758][ 86]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.57.51:911][277]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.57.52:528][277]LogSavePackage: Save=591.30ms
+[2018.01.27-12.57.52:528][277]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_FogE5E12768450180F3EBB3BE8D07461EB5.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.57.52:559][277]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.57.55:178][566]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.57.55:236][566]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.57.55:236][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-12.57.55:236][566]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:57:55)
+[2018.01.27-12.57.55:236][566]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.57.55:266][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029016s)
+[2018.01.27-12.57.55:267][566]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.57.55:268][566]LogPlayLevel: PIE: World Init took: (0.002000s)
+[2018.01.27-12.57.55:268][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.031590s)
+[2018.01.27-12.57.55:300][566]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.57.55:308][566]LogInit: FAudioDevice initialized.
+[2018.01.27-12.57.55:358][566]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.57.55:362][566]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.57.55
+[2018.01.27-12.57.55:363][566]LogWorld: Bringing up level for play took: 0.004492
+[2018.01.27-12.57.55:365][566]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.57.55:369][566]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.653
+[2018.01.27-12.57.55:370][566]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.08:884][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.08:997][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.45:461][914]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-12.58.45:525][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.45:526][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-12.58.45:526][914]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 12:58:45)
+[2018.01.27-12.58.45:526][914]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-12.58.45:559][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032981s)
+[2018.01.27-12.58.45:560][914]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-12.58.45:560][914]LogPlayLevel: PIE: World Init took: (0.001092s)
+[2018.01.27-12.58.45:560][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034507s)
+[2018.01.27-12.58.45:586][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-12.58.45:594][914]LogInit: FAudioDevice initialized.
+[2018.01.27-12.58.45:646][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-12.58.45:650][914]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-12.58.45
+[2018.01.27-12.58.45:651][914]LogWorld: Bringing up level for play took: 0.004565
+[2018.01.27-12.58.45:653][914]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-12.58.45:659][914]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.934
+[2018.01.27-12.58.45:659][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.58:307][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-12.58.58:418][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-13.00.10:718][ 34]LogSavePackage: Save=3210.78ms
+[2018.01.27-13.00.10:718][ 34]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap081144E6448293165F7463BEDD0AAF50.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.27-13.00.10:773][ 34]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.27-13.00.10:964][ 34]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 3.722
+[2018.01.27-13.00.11:033][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/AI/AI_Enemy" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/AI/AI_Enemy.uasset" SILENT=true
+[2018.01.27-13.00.17:424][ 34]LogSavePackage: Save=6332.13ms
+[2018.01.27-13.00.17:424][ 34]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/AI_Enemy66F1FF0D4ECEF8F1E6BAACB03E18E3C3.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/AI/AI_Enemy.uasset'
+[2018.01.27-13.00.17:454][ 34]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/AI/AI_Enemy.uasset
+[2018.01.27-13.00.18:224][ 34]LogSavePackage: Save=721.37ms
+[2018.01.27-13.00.18:224][ 34]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_Zone756F82D64A41B674F34B4A82BFCBC415.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset'
+[2018.01.27-13.00.18:262][ 34]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset
+[2018.01.27-13.00.18:283][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-13.00.19:461][ 34]LogSavePackage: Save=1131.69ms
+[2018.01.27-13.00.19:461][ 34]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_FogBE64972746A1302FDAB94BB8373A80FA.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-13.00.19:499][ 34]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-13.00.19:584][ 34]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Door" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Door.uasset" SILENT=true
+[2018.01.27-13.00.19:954][ 34]LogSavePackage: Save=348.32ms
+[2018.01.27-13.00.19:954][ 34]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/BP_DoorBF530101480EA767E872FCA432ED2BF1.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Door.uasset'
+[2018.01.27-13.00.19:986][ 34]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Door.uasset
+[2018.01.27-13.00.27:128][313]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.00.38:442][313]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.00.38:739][313]SourceControl: [master 61eae6e] update
+[2018.01.27-13.00.38:739][313]SourceControl:  6 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.00.38:739][313]SourceControl:  rewrite GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset (94%)
+[2018.01.27-13.00.38:739][313]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/AI/AI_Enemy.uasset (74%)
+[2018.01.27-13.00.38:739][313]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Door.uasset
+[2018.01.27-13.00.38:739][313]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset (62%)
+[2018.01.27-13.00.38:747][313]SourceControl: Commited [master 61eae6e] update.
