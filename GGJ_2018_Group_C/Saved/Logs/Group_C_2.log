@@ -333,3 +333,8 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.42.57:550][797]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset (100%)
 [2018.01.27-13.42.57:550][797]SourceControl:  copy GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/{BP_Red_Zone.uasset => BP_Red_ZoneTest.uasset} (83%)
 [2018.01.27-13.42.57:556][797]SourceControl: Commited [master 9acaea3] update.
+[2018.01.27-13.43.38:655][132]LogSavePackage: Save=7612.10ms
+[2018.01.27-13.43.38:655][132]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_Auto1F2757E524DD3EE3F95E9DE9D07152D8A.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.27-13.43.38:707][132]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.27-13.43.39:477][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 14.512
+[2018.01.27-13.43.39:478][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 14.512
