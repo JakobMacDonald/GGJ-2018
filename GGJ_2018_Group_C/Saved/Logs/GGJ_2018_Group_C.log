@@ -1,0 +1,527 @@
+﻿Log file open, 01/27/18 10:56:32
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: GGJ_2018_Group_C
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-398636016) SRandInit(-398636016).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.204665
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal  -HTTP=WinInet
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.27-10.56.33:718][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-10.56.33:718][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.27-10.56.33:753][  0]LogInit: Computer: GC010714R
+[2018.01.27-10.56.33:753][  0]LogInit: User: jrmacdonald
+[2018.01.27-10.56.33:753][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.27-10.56.33:753][  0]LogInit: High frequency timer resolution =3.215349 MHz
+[2018.01.27-10.56.33:754][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.27-10.56.33:754][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.27-10.56.33:754][  0]LogMemory: Process Physical Memory: 275.55 MB used, 275.55 MB peak
+[2018.01.27-10.56.33:754][  0]LogMemory: Process Virtual Memory: 273.29 MB used, 273.29 MB peak
+[2018.01.27-10.56.33:754][  0]LogMemory: Physical Memory: 4748.02 MB used,  11580.32 MB free, 16328.34 MB total
+[2018.01.27-10.56.33:754][  0]LogMemory: Virtual Memory: 665.78 MB used,  11580.32 MB free, 134217728.00 MB total
+[2018.01.27-10.56.34:120][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.27-10.56.34:120][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.27-10.56.34:125][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.27-10.56.34:956][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.27-10.56.34:979][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.01.27-10.56.34:980][  0]LogD3D11RHI:       2015/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.27-10.56.34:981][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.27-10.56.34:981][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.27-10.56.34:981][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.27-10.56.34:985][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.27-10.56.34:985][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.27-10.56.34:985][  0]LogWindows: EnumDisplayDevices:
+[2018.01.27-10.56.34:986][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.01.27-10.56.34:986][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:1)
+[2018.01.27-10.56.34:986][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.01.27-10.56.34:986][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.01.27-10.56.34:986][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.27-10.56.34:986][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.01.27-10.56.34:986][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.01.27-10.56.34:986][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.01.27-10.56.34:986][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.27-10.56.34:999][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.27-10.56.35:014][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.27-10.56.35:016][  0]LogShaderCompilers: Guid format shader working directory is 8 characters bigger than the processId version (E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Intermediate/Shaders/WorkingDirectory/1776/).
+[2018.01.27-10.56.35:016][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/jrmacdonald/AppData/Local/Temp/UnrealShaderWorkingDir/785C17C54A830CFF730AD49C12B3A264/'.
+[2018.01.27-10.56.35:016][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.27-10.56.36:267][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.27-10.56.36:366][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.27-10.56.36:467][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.27-10.56.36:569][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.27-10.56.36:668][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.27-10.56.36:770][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.27-10.56.36:870][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.27-10.56.36:986][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.27-10.56.37:075][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.27-10.56.37:175][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.27-10.56.37:273][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.27-10.56.37:375][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.27-10.56.37:476][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.27-10.56.37:577][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.27-10.56.37:675][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.27-10.56.37:869][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.27-10.56.37:870][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.27-10.56.37:954][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.27-10.56.38:119][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.27-10.56.38:200][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.27-10.56.38:301][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.27-10.56.38:397][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.27-10.56.38:494][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.27-10.56.38:592][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.27-10.56.38:592][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.27-10.56.39:603][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.27-10.56.39:696][  0]LogDerivedDataCache: Loaded boot cache 0.09s 93MB C:/Users/jrmacdonald/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.27-10.56.39:696][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/jrmacdonald/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.27-10.56.39:696][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.27-10.56.39:696][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.27-10.56.39:697][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.27-10.56.39:697][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.27-10.56.39:714][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.27-10.56.39:727][  0]LogDerivedDataCache: Using Local data cache path C:/Users/jrmacdonald/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.27-10.56.39:739][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.27-10.56.39:739][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.27-10.56.39:740][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-10.56.39:740][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.27-10.56.40:072][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.01.27-10.56.40:286][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.27-10.56.40:471][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.27-10.56.41:107][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.27-10.56.41:201][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.27-10.56.41:201][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.27-10.56.41:201][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.27-10.56.41:201][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.27-10.56.41:201][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.27-10.56.41:664][  0]LogNetVersion: GGJ_2018_Group_C , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 263696967)
+[2018.01.27-10.56.42:098][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.168055 seconds
+[2018.01.27-10.56.42:105][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.27-10.56.42:105][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.01.27-10.56.42:105][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.27-10.56.42:253][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.27-10.56.46:831][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.27-10.56.46:923][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.27-10.56.48:223][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.27-10.56.49:017][  0]SourceControl: Source control is disabled
+[2018.01.27-10.56.49:017][  0]SourceControl: Source control is disabled
+[2018.01.27-10.56.49:115][  0]SourceControl: Source control is disabled
+[2018.01.27-10.56.49:209][  0]SourceControl: Source control is disabled
+[2018.01.27-10.56.50:368][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.27-10.56.50:862][  0]LogOcInput: OculusInput pre-init called
+[2018.01.27-10.56.51:361][  0]LogEngine: Initializing Engine...
+[2018.01.27-10.56.51:363][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.27-10.56.51:594][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.27-10.56.51:594][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.27-10.56.51:865][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.27-10.56.51:874][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-10.56.51:894][  0]LogInit: FAudioDevice initialized.
+[2018.01.27-10.56.52:061][  0]LogDerivedDataCache: Saved boot cache 0.17s 93MB C:/Users/jrmacdonald/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.27-10.56.52:066][  0]LogInit: Texture streaming: Enabled
+[2018.01.27-10.56.52:307][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.27-10.56.52:749][  0]LogInit: Transaction tracking system initialized
+[2018.01.27-10.56.53:405][  0]BlueprintLog: New page: Editor Load
+[2018.01.27-10.56.55:429][  0]LocalizationService: Localization service is disabled
+[2018.01.27-10.56.56:938][  0]LogConsoleResponse: Display: 
+[2018.01.27-10.56.57:167][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.27-10.56.57:167][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.27-10.56.57:167][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.27-10.56.57:737][  0]LogFileCache: Scanning file cache for directory 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/' took 0.01s
+[2018.01.27-10.56.59:344][  0]SourceControl: Source control is disabled
+[2018.01.27-10.56.59:346][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.17/FeaturePacks/StarterContent.upack)
+[2018.01.27-10.56.59:354][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.01.27-10.56.59:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.01.27-10.56.59:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.01.27-10.56.59:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.01.27-10.56.59:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.01.27-10.56.59:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.01.27-10.56.59:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.01.27-10.56.59:494][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.01.27-10.56.59:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.01.27-10.56.59:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.01.27-10.56.59:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.01.27-10.56.59:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.01.27-10.56.59:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.01.27-10.56.59:607][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.01.27-10.56.59:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.01.27-10.56.59:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.01.27-10.56.59:658][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.01.27-10.56.59:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.01.27-10.56.59:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Fire01.uasset"
+[2018.01.27-10.56.59:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.01.27-10.56.59:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.01.27-10.56.59:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.01.27-10.56.59:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Light01.uasset"
+[2018.01.27-10.56.59:772][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.01.27-10.56.59:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Light02.uasset"
+[2018.01.27-10.56.59:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.01.27-10.56.59:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.01.27-10.56.59:837][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.01.27-10.56.59:853][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.01.27-10.56.59:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.01.27-10.56.59:943][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.01.27-10.56.59:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.01.27-10.56.59:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.01.27-10.57.00:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.01.27-10.57.00:036][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Steam01.uasset"
+[2018.01.27-10.57.00:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.01.27-10.57.00:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.01.27-10.57.00:088][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.01.27-10.57.00:100][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.01.27-10.57.00:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.01.27-10.57.00:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.01.27-10.57.00:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.01.27-10.57.00:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.01.27-10.57.00:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.01.27-10.57.00:184][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.01.27-10.57.00:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.01.27-10.57.00:207][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.01.27-10.57.00:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.01.27-10.57.00:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.01.27-10.57.00:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.01.27-10.57.00:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.01.27-10.57.00:268][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.01.27-10.57.00:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.01.27-10.57.00:711][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.01.27-10.57.00:723][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.01.27-10.57.00:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.01.27-10.57.00:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.01.27-10.57.00:801][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/StarterMap.umap"
+[2018.01.27-10.57.00:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.01.27-10.57.00:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.01.27-10.57.00:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.01.27-10.57.00:923][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.01.27-10.57.00:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.01.27-10.57.00:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.01.27-10.57.00:958][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.01.27-10.57.00:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.01.27-10.57.00:982][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.01.27-10.57.00:994][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.01.27-10.57.01:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.01.27-10.57.01:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.01.27-10.57.01:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.01.27-10.57.01:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.01.27-10.57.01:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.01.27-10.57.01:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.01.27-10.57.01:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.01.27-10.57.01:089][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.01.27-10.57.01:101][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.01.27-10.57.01:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.01.27-10.57.01:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.01.27-10.57.01:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.01.27-10.57.01:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.01.27-10.57.01:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.01.27-10.57.01:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.01.27-10.57.01:199][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.01.27-10.57.01:213][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.01.27-10.57.01:227][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.01.27-10.57.01:242][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.01.27-10.57.01:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.01.27-10.57.01:272][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.01.27-10.57.01:284][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.01.27-10.57.01:299][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.01.27-10.57.01:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.01.27-10.57.01:333][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.01.27-10.57.01:345][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.01.27-10.57.01:357][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.01.27-10.57.01:375][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.01.27-10.57.01:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.01.27-10.57.01:405][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.01.27-10.57.01:418][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.01.27-10.57.01:432][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.01.27-10.57.01:444][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.01.27-10.57.01:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.01.27-10.57.01:482][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.01.27-10.57.01:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.01.27-10.57.01:509][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.01.27-10.57.01:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.01.27-10.57.01:533][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.01.27-10.57.01:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.01.27-10.57.01:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.01.27-10.57.01:583][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.01.27-10.57.01:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.01.27-10.57.01:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.01.27-10.57.01:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.01.27-10.57.01:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.01.27-10.57.01:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.01.27-10.57.01:654][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.01.27-10.57.01:667][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.01.27-10.57.01:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.01.27-10.57.01:706][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.01.27-10.57.01:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.01.27-10.57.01:731][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.01.27-10.57.01:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.01.27-10.57.01:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.01.27-10.57.01:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Door.uasset"
+[2018.01.27-10.57.01:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.01.27-10.57.01:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.01.27-10.57.01:807][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.01.27-10.57.01:820][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.01.27-10.57.01:846][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.01.27-10.57.01:858][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.01.27-10.57.01:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.01.27-10.57.01:883][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.01.27-10.57.01:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.01.27-10.57.01:907][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.01.27-10.57.01:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.01.27-10.57.01:934][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.01.27-10.57.01:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.01.27-10.57.01:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.01.27-10.57.01:984][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.01.27-10.57.01:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.01.27-10.57.02:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.01.27-10.57.02:023][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.01.27-10.57.02:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.01.27-10.57.02:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.01.27-10.57.02:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.01.27-10.57.02:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.01.27-10.57.02:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.01.27-10.57.02:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.01.27-10.57.02:108][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.01.27-10.57.02:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.01.27-10.57.02:144][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.01.27-10.57.02:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.01.27-10.57.02:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.01.27-10.57.02:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.01.27-10.57.02:194][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.01.27-10.57.02:206][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.01.27-10.57.02:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.01.27-10.57.02:229][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.01.27-10.57.02:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.01.27-10.57.02:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.01.27-10.57.02:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.01.27-10.57.02:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.01.27-10.57.02:290][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.01.27-10.57.02:301][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.01.27-10.57.02:314][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.01.27-10.57.02:325][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.01.27-10.57.02:337][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.01.27-10.57.02:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.01.27-10.57.02:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.01.27-10.57.02:466][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.01.27-10.57.02:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.01.27-10.57.02:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.01.27-10.57.02:614][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.01.27-10.57.02:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.01.27-10.57.02:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.01.27-10.57.02:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.01.27-10.57.02:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.01.27-10.57.02:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.01.27-10.57.03:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.01.27-10.57.03:118][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.01.27-10.57.03:185][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.01.27-10.57.03:202][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.01.27-10.57.03:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.01.27-10.57.03:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.01.27-10.57.03:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.01.27-10.57.03:257][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.01.27-10.57.03:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.01.27-10.57.03:293][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.01.27-10.57.03:306][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.01.27-10.57.03:377][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.01.27-10.57.03:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.01.27-10.57.03:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.01.27-10.57.03:498][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.01.27-10.57.03:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.01.27-10.57.03:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.01.27-10.57.03:629][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.01.27-10.57.03:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.01.27-10.57.03:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.01.27-10.57.03:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.01.27-10.57.03:874][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.01.27-10.57.03:950][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.01.27-10.57.04:003][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.01.27-10.57.04:043][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.01.27-10.57.04:085][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.01.27-10.57.04:133][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.01.27-10.57.04:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.01.27-10.57.04:170][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.01.27-10.57.04:183][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.01.27-10.57.04:201][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.01.27-10.57.04:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.01.27-10.57.04:240][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.01.27-10.57.04:255][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.01.27-10.57.04:271][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.01.27-10.57.04:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.01.27-10.57.04:308][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.01.27-10.57.04:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.01.27-10.57.04:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.01.27-10.57.04:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.01.27-10.57.04:547][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.01.27-10.57.04:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.01.27-10.57.04:674][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.01.27-10.57.04:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.01.27-10.57.04:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.01.27-10.57.04:780][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.01.27-10.57.04:848][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.01.27-10.57.04:911][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.01.27-10.57.04:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.01.27-10.57.05:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.01.27-10.57.05:084][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.01.27-10.57.05:146][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.01.27-10.57.05:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.01.27-10.57.05:230][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.01.27-10.57.05:267][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.01.27-10.57.05:323][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.01.27-10.57.05:349][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.01.27-10.57.05:389][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.01.27-10.57.05:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.01.27-10.57.05:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.01.27-10.57.05:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.01.27-10.57.05:592][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.01.27-10.57.05:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.01.27-10.57.05:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.01.27-10.57.05:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.01.27-10.57.05:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.01.27-10.57.05:891][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.01.27-10.57.05:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.01.27-10.57.05:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.01.27-10.57.05:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.01.27-10.57.05:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.01.27-10.57.05:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.01.27-10.57.05:989][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.01.27-10.57.06:002][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.01.27-10.57.06:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.01.27-10.57.06:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.01.27-10.57.06:050][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.01.27-10.57.06:062][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.01.27-10.57.06:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.01.27-10.57.06:090][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.01.27-10.57.06:105][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.01.27-10.57.06:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.01.27-10.57.06:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.01.27-10.57.06:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.01.27-10.57.06:212][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.01.27-10.57.06:246][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.01.27-10.57.06:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.01.27-10.57.06:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.01.27-10.57.06:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.01.27-10.57.06:425][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.01.27-10.57.06:455][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.01.27-10.57.06:505][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.01.27-10.57.06:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.01.27-10.57.06:651][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-10.57.06:775][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2018.01.27-10.57.07:052][  0]LogSavePackage: Save=228.46ms
+[2018.01.27-10.57.07:052][  0]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Floor_400x4007B8168764BBB5173DEC79DA62CE8C602.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.01.27-10.57.07:101][  0]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/StarterContent/Architecture/Floor_400x400.uasset
+[2018.01.27-10.57.07:102][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.01.27-10.57.07:116][  0]Cmd: MAP LOAD FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-10.57.07:116][  0]LightingResults: New page: Lighting Build
+[2018.01.27-10.57.07:203][  0]MapCheck: New page: Map Check
+[2018.01.27-10.57.07:203][  0]LightingResults: New page: Lighting Build
+[2018.01.27-10.57.08:656][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.01.27-10.57.09:016][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-10.57.09:098][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-10.57.09:209][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 111.079ms to complete.
+[2018.01.27-10.57.09:209][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 2.093
+[2018.01.27-10.57.09:391][  0]LogCollectionManager: Loaded 0 collections in 0.001543 seconds
+[2018.01.27-10.57.09:597][  0]LogFileCache: Scanning file cache for directory 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Collections/' took 0.01s
+[2018.01.27-10.57.09:597][  0]LogFileCache: Scanning file cache for directory 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Developers/jrmacdonald/Collections/' took 0.01s
+[2018.01.27-10.57.09:597][  0]LogFileCache: Scanning file cache for directory 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Collections/' took 0.01s
+[2018.01.27-10.57.09:597][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.27-10.57.09:607][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2386 classes and 500 folders.
+[2018.01.27-10.57.09:743][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.27-10.57.09:799][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2018.01.27-10.57.09:906][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.27-10.57.09:928][  0]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-10.57.09:930][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.27-10.57.09:935][  0]LogSlate: Took 0.000219 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.27-10.57.09:979][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-10.57.10:161][  0]LogSlate: Took 0.000387 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-10.57.10:328][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.01.27-10.57.10:328][  0]LogLoad: (Engine Initialization) Total time: 39.30 seconds
+[2018.01.27-10.57.10:328][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.27-10.57.10:329][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.27-10.57.10:499][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.27-10.57.10:572][  1]LogAssetRegistry: Asset discovery search completed in 30.5223 seconds
+[2018.01.27-10.57.10:574][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.27-10.57.10:574][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000041 seconds (updated 0 objects)
