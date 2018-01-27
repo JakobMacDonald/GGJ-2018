@@ -13745,3 +13745,4 @@ LogInit: Object subsystem initialized
 [2018.01.27-15.56.23:649][423]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/M_Guard.uasset
 [2018.01.27-15.56.23:649][423]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/RT_Map_guard.uasset
 [2018.01.27-15.56.23:654][423]SourceControl: Commited [master 11b47b6] update.
+[2018.01.27-15.57.07:586][723]LogPackageName: SearchForPackageOnDisk took   0.001s to resolve /Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Door.
