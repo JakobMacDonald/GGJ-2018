@@ -279,3 +279,62 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.30.08:414][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.01.27-13.30.08:414][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
 [2018.01.27-13.30.09:301][ 45]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-13.31.52:316][348]SourceControl: On branch master
+[2018.01.27-13.31.52:316][348]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.27-13.31.52:316][348]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.39.46:436][819]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.39.55:507][819]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.39.55:638][819]SourceControl: [master 2ef6a21] update
+[2018.01.27-13.39.55:638][819]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.39.55:638][819]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset
+[2018.01.27-13.39.55:643][819]SourceControl: Commited [master 2ef6a21] update.
+[2018.01.27-13.41.40:029][643]SourceControl: On branch master
+[2018.01.27-13.41.40:029][643]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-13.41.40:029][643]SourceControl: and have 3 and 5 different commits each, respectively.
+[2018.01.27-13.41.40:029][643]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-13.41.40:029][643]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.41.40:182][643]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-13.41.41:472][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticleTjhing" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset" SILENT=true
+[2018.01.27-13.41.42:308][643]LogSavePackage: Save=800.08ms
+[2018.01.27-13.41.42:308][643]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleTjhingCEE5C91241B8DEA5B1AD07A6D38398B3.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset'
+[2018.01.27-13.41.43:119][643]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.41.43:546][643]LogSlate: Took 0.000276 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-13.41.43:582][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticle" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset" SILENT=true
+[2018.01.27-13.41.44:651][643]LogSavePackage: Save=27.27ms
+[2018.01.27-13.41.44:651][643]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleA69A340E4DA7D17354E42D835338C5E1.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset'
+[2018.01.27-13.41.44:726][643]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset
+[2018.01.27-13.41.49:086][979]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.41.56:492][979]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.41.56:634][979]SourceControl: [master 6306d31] Test
+[2018.01.27-13.41.56:634][979]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.41.56:634][979]SourceControl:  rewrite GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset (100%)
+[2018.01.27-13.41.56:634][979]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.41.56:639][979]SourceControl: Commited [master 6306d31] Test.
+[2018.01.27-13.42.38:510][340]SourceControl: On branch master
+[2018.01.27-13.42.38:510][340]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-13.42.38:510][340]SourceControl: and have 5 and 5 different commits each, respectively.
+[2018.01.27-13.42.38:510][340]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-13.42.38:510][340]SourceControl: nothing to commit, working tree clean
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.BP_Red_ZoneTest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.40:816][340]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.SKEL_BP_Red_ZoneTest_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.PackageMetaData'
+[2018.01.27-13.42.42:343][340]LogSavePackage: Save=1452.58ms
+[2018.01.27-13.42.42:343][340]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_ZoneTest34C025CA459F24332444FBB1595D0F04.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.uasset'
+[2018.01.27-13.42.42:397][340]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_ZoneTest.uasset
+[2018.01.27-13.42.42:829][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset" SILENT=true
+[2018.01.27-13.42.43:949][340]LogSavePackage: Save=28.79ms
+[2018.01.27-13.42.43:949][340]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_ZoneA6C6C5BA459CA5EFB5FE13AC81EA961F.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset'
+[2018.01.27-13.42.44:016][340]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset
+[2018.01.27-13.42.49:402][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.42.57:402][797]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.42.57:550][797]SourceControl: [master 9acaea3] update
+[2018.01.27-13.42.57:550][797]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.42.57:550][797]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone.uasset (100%)
+[2018.01.27-13.42.57:550][797]SourceControl:  copy GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/{BP_Red_Zone.uasset => BP_Red_ZoneTest.uasset} (83%)
+[2018.01.27-13.42.57:556][797]SourceControl: Commited [master 9acaea3] update.
+[2018.01.27-13.43.38:655][132]LogSavePackage: Save=7612.10ms
+[2018.01.27-13.43.38:655][132]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_Auto1F2757E524DD3EE3F95E9DE9D07152D8A.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2018.01.27-13.43.38:707][132]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap
+[2018.01.27-13.43.39:477][132]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 14.512
+[2018.01.27-13.43.39:478][132]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 14.512
