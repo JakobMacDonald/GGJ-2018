@@ -18933,3 +18933,5 @@ LogInit: Object subsystem initialized
 [2018.01.27-20.31.23:871][674]SourceControl: [master 7d6e8b4] Update
 [2018.01.27-20.31.23:871][674]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
 [2018.01.27-20.31.23:877][674]SourceControl: Commited [master 7d6e8b4] Update.
+[2018.01.27-20.33.46:288][679]LogPackageName: SearchForPackageOnDisk took   0.002s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.
+[2018.01.27-20.33.47:571][681]LogPackageName: SearchForPackageOnDisk took   0.011s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapJakob2.
