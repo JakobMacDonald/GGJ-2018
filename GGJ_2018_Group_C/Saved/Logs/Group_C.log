@@ -380,3 +380,95 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.49.01:424][727]LogSavePackage: Save=13.11ms
 [2018.01.27-13.49.01:424][727]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleTjhingBD8091B54CF46415C01371B1E0F97CD1.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset'
 [2018.01.27-13.49.01:454][727]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.51.34:015][124]LogEditorViewport: Clicking on Actor (LMB): Emitter (P_Possesd)
+[2018.01.27-13.51.38:309][478]LogContentBrowser: Native class hierarchy updated for 'Cascade' in 0.0010 seconds. Added 2 classes and 2 folders.
+[2018.01.27-13.51.43:287][925]LogSavePackage: Save=687.05ms
+[2018.01.27-13.51.43:287][925]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Possesd191B5A454A16C55946AC8BBF4E42DC0A.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset'
+[2018.01.27-13.51.43:301][925]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
+[2018.01.27-13.51.51:111][843]LogMaterial: Missing cached shader map for material M_Possessed, compiling. 
+[2018.01.27-13.51.51:173][845]LogMaterial: Warning: Material /Game/M_Possessed.M_Possessed needed to have new flag set bUsedWithParticleSprites !
+[2018.01.27-13.51.51:176][845]LogMaterial: Missing cached shader map for material M_Possessed, compiling. 
+[2018.01.27-13.51.56:263][322]LogSavePackage: Save=674.62ms
+[2018.01.27-13.51.56:263][322]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_PossesdF92FBE81453270410B24A2A950857653.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset'
+[2018.01.27-13.51.56:291][322]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
+[2018.01.27-13.51.58:573][592]LogMaterial: Missing cached shader map for material M_Possessed, compiling. 
+[2018.01.27-13.51.58:732][592]LogMaterial: Missing cached shader map for material M_Possessed, compiling. 
+[2018.01.27-13.51.58:747][592]LogMaterial: Missing cached shader map for material M_Possessed, compiling. 
+[2018.01.27-13.51.58:784][592]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2018.01.27-13.51.59:786][676]MaterialEditorStats: Base pass shader: 80 instructions
+[2018.01.27-13.51.59:786][676]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-13.51.59:786][676]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-13.52.07:026][541]LogMaterialEditor: Saving and Compiling material M_PossedParticleTjhing
+[2018.01.27-13.52.07:717][541]LogMaterial: Missing cached shader map for material M_PossedParticleTjhing, compiling. 
+[2018.01.27-13.52.07:824][541]LogMaterial: Missing cached shader map for material M_PossedParticleTjhing, compiling. 
+[2018.01.27-13.52.07:972][541]LogMaterial: Missing cached shader map for material M_PossedParticleTjhing, compiling. 
+[2018.01.27-13.52.08:135][541]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_PossedParticleTjhing, compiling. 
+[2018.01.27-13.52.09:525][541]TextureStreamingBuild: Display: Compiling optional shaders took 1.399 seconds.
+[2018.01.27-13.52.16:096][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticleTjhing" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset" SILENT=true
+[2018.01.27-13.52.16:165][541]LogSavePackage: Save=28.11ms
+[2018.01.27-13.52.16:170][541]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleTjhing0A5085E840762FAB997DCA869FE3FC9B.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset'
+[2018.01.27-13.52.16:203][541]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset
+[2018.01.27-13.52.16:207][541]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.27-13.52.16:207][541]MaterialEditorStats: Vertex shader: 33 instructions
+[2018.01.27-13.52.16:207][541]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.27-13.52.16:207][541]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-13.52.24:140][352]LogSavePackage: Save=667.20ms
+[2018.01.27-13.52.24:140][352]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Possesd93DA52D140F465D1D306F2813FD2E650.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset'
+[2018.01.27-13.52.24:179][352]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
+[2018.01.27-13.52.27:125][668]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.27-13.52.27:528][668]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-13.52.27:528][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.27-13.52.27:529][668]PIE: New page: PIE session: ThirdPersonExampleMap (27 Jan 2018 13:52:27)
+[2018.01.27-13.52.27:529][668]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.01.27-13.52.27:562][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.032667s)
+[2018.01.27-13.52.27:563][668]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.27-13.52.27:564][668]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2018.01.27-13.52.27:564][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034486s)
+[2018.01.27-13.52.27:588][668]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.27-13.52.27:597][668]LogInit: FAudioDevice initialized.
+[2018.01.27-13.52.27:796][668]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.27-13.52.27:800][668]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.01.27-13.52.27
+[2018.01.27-13.52.27:802][668]LogWorld: Bringing up level for play took: 0.004706
+[2018.01.27-13.52.27:896][668]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.01.27-13.52.27:897][668]LogBlueprintUserMessages: [AI_Enemy_290] Guard
+[2018.01.27-13.52.27:903][668]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.077
+[2018.01.27-13.52.27:903][668]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-13.52.27:908][668]LogMaterial: Warning: Material /Game/M_Guard.M_Guard missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2018.01.27-13.52.27:908][668]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.01.27-13.52.27:942][668]LogRenderer: Reallocating scene render targets to support 1292x1044 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-13.52.32:170][ 90]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-13.52.32:269][ 90]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.01.27-13.52.54:387][588]LogAIModule: Creating AISystem for world ThirdPersonExampJakobs
+[2018.01.27-13.52.57:819][588]LogSavePackage: Save=3138.84ms
+[2018.01.27-13.52.57:819][588]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampJakobs0077860242EB4A87A3F90EBCE65F1A96.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap'
+[2018.01.27-13.52.57:843][588]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap
+[2018.01.27-13.53.00:935][588]LogFileHelpers: Saving map 'ThirdPersonExampJakobs' took 6.430
+[2018.01.27-13.53.04:422][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Possessed" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/M_Possessed.uasset" SILENT=true
+[2018.01.27-13.53.04:483][725]LogSavePackage: Save=20.84ms
+[2018.01.27-13.53.04:483][725]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_Possessed129433DB4B04CD98D1EF08B0A70D785F.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/M_Possessed.uasset'
+[2018.01.27-13.53.04:511][725]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/M_Possessed.uasset
+[2018.01.27-13.53.07:896][725]LogSavePackage: Save=3152.66ms
+[2018.01.27-13.53.07:896][725]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampJakobs776390ED4DB7316B3B8FC8BA0C15DEE2.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap'
+[2018.01.27-13.53.07:938][725]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap
+[2018.01.27-13.53.07:953][725]LogFileHelpers: Saving map 'ThirdPersonExampJakobs' took 3.441
+[2018.01.27-13.53.07:957][725]Cmd: MAP LOAD FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-13.53.07:957][725]LightingResults: New page: Lighting Build
+[2018.01.27-13.53.07:959][725]LoadErrors: New page: Loading map: ThirdPersonExampJakobs.umap
+[2018.01.27-13.53.07:983][725]MapCheck: New page: Map Check
+[2018.01.27-13.53.07:983][725]LightingResults: New page: Lighting Build
+[2018.01.27-13.53.08:033][725]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-13.53.08:154][725]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-13.53.08:329][725]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 174.101ms to complete.
+[2018.01.27-13.53.08:330][725]LogFileHelpers: Loading map 'ThirdPersonExampJakobs' took 0.375
+[2018.01.27-13.53.12:157][105]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.53.17:372][105]LogSavePackage: Save=3102.18ms
+[2018.01.27-13.53.17:372][105]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampJakobsDC22932B47E8240386D3658B839E596E.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap'
+[2018.01.27-13.53.17:403][105]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap
+[2018.01.27-13.53.17:525][105]LogFileHelpers: Saving map 'ThirdPersonExampJakobs' took 3.422
+[2018.01.27-13.53.28:305][105]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.53.28:567][105]SourceControl: [master 995bc38] Update
+[2018.01.27-13.53.28:567][105]SourceControl:  4 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.53.28:567][105]SourceControl:  rewrite GGJ_2018_Group_C/Content/M_Possessed.uasset (97%)
+[2018.01.27-13.53.28:567][105]SourceControl:  rewrite GGJ_2018_Group_C/Content/Material/M_PossedParticleTjhing.uasset (96%)
+[2018.01.27-13.53.28:567][105]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampJakobs.umap
+[2018.01.27-13.53.28:574][105]SourceControl: Commited [master 995bc38] Update.
