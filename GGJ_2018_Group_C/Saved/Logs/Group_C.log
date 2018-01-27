@@ -284,3 +284,5 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.18.36:439][ 55]LogSlate: Took 0.000401 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
 [2018.01.27-13.30.53:639][160]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
 [2018.01.27-13.30.53:765][160]EditorErrors: Warning: No assets to check in!
+[2018.01.27-13.33.29:439][709]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.33.29:557][709]EditorErrors: Warning: No assets to check in!
