@@ -286,3 +286,21 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.30.53:765][160]EditorErrors: Warning: No assets to check in!
 [2018.01.27-13.33.29:439][709]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
 [2018.01.27-13.33.29:557][709]EditorErrors: Warning: No assets to check in!
+[2018.01.27-13.37.13:425][279]LogSlate: Took 0.000305 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-13.37.22:183][ 48]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.37.22:300][ 48]EditorErrors: Warning: No assets to check in!
+[2018.01.27-13.37.27:689][506]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.01.27-13.37.28:508][506]LogSlate: Took 0.000351 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.27-13.37.28:650][506]LogRenderer: Reallocating scene render targets to support 1144x1044 Format 10 NumSamples 1 (Frame:1).
+[2018.01.27-13.37.30:185][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Test" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset" SILENT=true
+[2018.01.27-13.37.30:456][587]LogSavePackage: Save=255.24ms
+[2018.01.27-13.37.30:456][587]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Test43243D154A8468A84D69B5B4CAA9A664.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset'
+[2018.01.27-13.37.30:488][587]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset
+[2018.01.27-13.37.35:411][996]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.37.43:473][996]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-13.37.43:527][996]SourceControl: [master dbd479c] UPdate
+[2018.01.27-13.37.43:527][996]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-13.37.43:527][996]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Test.uasset
+[2018.01.27-13.37.43:535][996]SourceControl: Commited [master dbd479c] UPdate.
+[2018.01.27-13.37.57:079][812]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-13.37.57:207][812]EditorErrors: Warning: No assets to check in!
