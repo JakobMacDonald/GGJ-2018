@@ -2413,3 +2413,282 @@ LogInit: Object subsystem initialized
 [2018.01.27-12.31.44:858][564]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Textures/T_Particle.uasset
 [2018.01.27-12.31.44:858][564]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
 [2018.01.27-12.31.44:866][564]SourceControl: Commited [master 74cd1b6] Update.
+[2018.01.27-12.34.41:555][749]SourceControl: On branch master
+[2018.01.27-12.34.41:555][749]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.01.27-12.34.41:555][749]SourceControl:   (use "git push" to publish your local commits)
+[2018.01.27-12.34.41:555][749]SourceControl: nothing to commit, working tree clean
+[2018.01.27-12.34.41:856][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_PossesedParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_PossesedParticle.uasset" SILENT=true
+[2018.01.27-12.34.41:890][749]LogSavePackage: Save=14.34ms
+[2018.01.27-12.34.41:890][749]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/T_PossesedParticle28B428664D924BDAFDAAC1BBFA6DE68A.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_PossesedParticle.uasset'
+[2018.01.27-12.34.41:911][749]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_PossesedParticle.uasset
+[2018.01.27-12.34.42:087][749]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_Particle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_Particle.uasset" SILENT=true
+[2018.01.27-12.34.42:143][749]LogSavePackage: Save=18.29ms
+[2018.01.27-12.34.42:143][749]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/T_ParticleE94FF057499B658D93303FAD4E83435A.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_Particle.uasset'
+[2018.01.27-12.34.42:172][749]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_Particle.uasset
+[2018.01.27-12.35.00:900][187]AssetReimport: New page: Outstanding source content changes 12:35:00
+[2018.01.27-12.35.00:901][187]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_RedFog.tga)
+[2018.01.27-12.35.01:121][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/T_RedFog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset" SILENT=true
+[2018.01.27-12.35.01:167][188]LogSavePackage: Save=27.16ms
+[2018.01.27-12.35.01:167][188]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/T_RedFog304549214BE6F5CE8F34C2AF16A4B384.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset'
+[2018.01.27-12.35.01:189][188]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset
+[2018.01.27-12.35.04:453][392]AssetReimport: Importing new asset /Game/Textures/T_RedFog.
+[2018.01.27-12.35.25:146][381]SourceControl: On branch master
+[2018.01.27-12.35.25:146][381]SourceControl: Your branch is ahead of 'origin/master' by 2 commits.
+[2018.01.27-12.35.25:146][381]SourceControl:   (use "git push" to publish your local commits)
+[2018.01.27-12.35.25:146][381]SourceControl: Changes to be committed:
+[2018.01.27-12.35.25:146][381]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.01.27-12.35.25:146][381]SourceControl: 	modified:   GGJ_2018_Group_C/Content/Textures/T_Particle.uasset
+[2018.01.27-12.35.25:146][381]SourceControl: 	new file:   GGJ_2018_Group_C/Content/Textures/T_PossesedParticle.uasset
+[2018.01.27-12.35.25:146][381]SourceControl: 	new file:   GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset
+[2018.01.27-12.35.25:146][381]SourceControl: Changes not staged for commit:
+[2018.01.27-12.35.25:146][381]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.27-12.35.25:146][381]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.27-12.35.25:146][381]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.27-12.35.25:146][381]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Logs/Group_C.log
+[2018.01.27-12.35.25:146][381]SourceControl: Untracked files:
+[2018.01.27-12.35.25:146][381]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.27-12.35.25:146][381]SourceControl: 	GGJ_2018_Group_C/Content/Textures/T_RedFog.tga
+[2018.01.27-12.35.25:146][381]SourceControl: 	GGJ_2018_Group_C/Saved/Backup/T_Particle_2018-01-27-12-34-42.uasset
+[2018.01.27-12.35.25:457][381]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.35.25:494][381]LogSavePackage: Save=21.86ms
+[2018.01.27-12.35.25:494][381]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticleCD9CB1534E0CA845639924B91AA15F00.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.35.25:523][381]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.35.27:724][453]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.27:881][453]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.27:896][453]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.29:137][562]MaterialEditorStats: Base pass shader: 78 instructions
+[2018.01.27-12.35.29:137][562]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.27-12.35.29:137][562]MaterialEditorStats: Texture samplers: 1/16
+[2018.01.27-12.35.36:124][123]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.36:138][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.35.36:173][123]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.35.37:694][274]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.37:711][274]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.35.38:708][354]MaterialEditorStats: Base pass shader: 81 instructions
+[2018.01.27-12.35.38:708][354]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-12.35.38:708][354]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-12.35.38:708][354]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.35.44:408][ 28]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.44:424][ 28]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.46:695][253]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.46:730][253]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.35.48:623][414]MaterialEditorStats: Base pass shader: 84 instructions
+[2018.01.27-12.35.48:623][414]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.27-12.35.48:623][414]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.27-12.35.48:623][414]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.35.50:589][647]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.50:624][647]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.52:891][870]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.35.52:913][870]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.35.54:674][ 25]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.01.27-12.35.54:674][ 25]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.35.54:674][ 25]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.35.54:674][ 25]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.11:371][  4]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.13:054][167]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.01.27-12.36.13:054][167]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.13:054][167]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.13:054][167]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.13:929][271]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.13:953][271]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.36.15:383][413]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.17:285][586]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.36.17:285][586]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.17:285][586]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.17:285][586]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.17:457][606]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.19:025][762]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.20:741][929]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.01.27-12.36.20:741][929]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.20:741][929]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.20:741][929]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.21:960][ 75]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.23:650][243]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.36.23:650][243]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.23:650][243]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.23:650][243]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.28:802][858]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.30:539][ 27]MaterialEditorStats: Base pass shader: 50 instructions
+[2018.01.27-12.36.30:539][ 27]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.30:539][ 27]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.30:539][ 27]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.33:426][373]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.35:133][540]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.36.35:133][540]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.36.35:133][540]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.36.35:133][540]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.36.38:922][759]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.36.39:608][759]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.39:681][759]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.39:724][759]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.36.39:783][759]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.36.41:113][759]TextureStreamingBuild: Display: Compiling optional shaders took 1.339 seconds.
+[2018.01.27-12.36.43:656][759]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.36.43:721][759]LogSavePackage: Save=23.86ms
+[2018.01.27-12.36.43:721][759]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticleF75CB97844B8F55F74973CA196CEF709.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.36.43:749][759]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.37.44:763][215]LogMaterial: Warning: Material /Game/Material/M_FogParticle.M_FogParticle needed to have new flag set bUsedWithParticleSprites !
+[2018.01.27-12.37.44:785][215]LogMaterial: Warning: Material /Engine/Transient.M_FogParticle needed to have new flag set bUsedWithParticleSprites !
+[2018.01.27-12.37.44:788][215]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.37.44:810][215]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.37.53:298][122]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.37.53:298][122]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.37.53:299][122]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.37.53:299][122]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.38.00:225][948]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.38.01:996][112]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.38.01:996][112]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.38.01:996][112]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.38.01:996][112]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.38.02:594][182]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.38.03:280][182]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.38.03:353][182]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.38.03:444][182]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.38.03:557][182]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.38.04:740][182]TextureStreamingBuild: Display: Compiling optional shaders took 1.193 seconds.
+[2018.01.27-12.38.10:210][182]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.38.10:265][182]LogSavePackage: Save=21.97ms
+[2018.01.27-12.38.10:265][182]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticle0BECA60A4B4E9C5BC1C6F8B920F69872.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.38.10:293][182]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.38.10:316][182]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.38.10:316][182]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.38.10:316][182]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.38.10:316][182]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.40.13:812][876]LogSavePackage: Save=3120.57ms
+[2018.01.27-12.40.13:812][876]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_Auto4DB3E212042430DB89C6FFD9D0FA5D5CD.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.01.27-12.40.13:825][876]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.01.27-12.40.13:842][876]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 3.324
+[2018.01.27-12.40.13:842][876]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.324
+[2018.01.27-12.40.13:847][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/AI/AI_Enemy] ([1] browsable assets)...
+[2018.01.27-12.40.13:882][876]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/AI/AI_Enemy.AI_Enemy]
+[2018.01.27-12.40.13:882][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/AI/AI_Enemy]
+[2018.01.27-12.40.20:338][876]LogSavePackage: Save=6401.31ms
+[2018.01.27-12.40.20:338][876]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/AI_Enemy_Auto43B82A73A43FA4E51173807BABA9B51DD.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI/AI_Enemy_Auto4.uasset'
+[2018.01.27-12.40.20:351][876]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/AI/AI_Enemy_Auto4.uasset
+[2018.01.27-12.40.20:354][876]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone] ([1] browsable assets)...
+[2018.01.27-12.40.20:354][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone]
+[2018.01.27-12.40.21:164][876]LogSavePackage: Save=754.76ms
+[2018.01.27-12.40.21:165][876]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/BP_Red_Zone_Auto457A1861F4C5DE6185604889CE1326EA7.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone_Auto4.uasset'
+[2018.01.27-12.40.21:173][876]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Red_Zone_Auto4.uasset
+[2018.01.27-12.40.21:175][876]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Particles/P_Fog] ([1] browsable assets)...
+[2018.01.27-12.40.21:187][876]OBJ SavePackage:     Rendered thumbnail for [ParticleSystem /Game/ThirdPersonBP/Blueprints/Particles/P_Fog.P_Fog]
+[2018.01.27-12.40.21:187][876]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Particles/P_Fog]
+[2018.01.27-12.40.21:747][876]LogSavePackage: Save=539.10ms
+[2018.01.27-12.40.21:747][876]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog_Auto4087EFA0940D7F89D93151D8042C46837.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Particles/P_Fog_Auto4.uasset'
+[2018.01.27-12.40.21:752][876]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Particles/P_Fog_Auto4.uasset
+[2018.01.27-12.40.21:752][876]LogFileHelpers: Auto-saving content packages took 7.907
+[2018.01.27-12.42.16:373][993]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.01.27-12.45.15:431][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.45.16:022][335]LogSavePackage: Save=575.09ms
+[2018.01.27-12.45.16:022][335]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog5440DCB54BD5C7E738F9AC93CF71C1A8.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.45.16:094][335]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.45.46:657][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.45.47:296][907]LogSavePackage: Save=595.40ms
+[2018.01.27-12.45.47:296][907]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog766406E34AEA6D42B1C194A28B575667.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.45.47:347][907]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.45.53:159][403]Cmd: DELETE
+[2018.01.27-12.45.53:159][403]Cmd: ACTOR DELETE
+[2018.01.27-12.45.53:380][403]LogEditorActor: Deleted Actor: Emitter
+[2018.01.27-12.45.53:399][403]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2018.01.27-12.46.56:937][ 89]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.46.59:025][291]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.46.59:025][291]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.46.59:025][291]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.46.59:025][291]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.47.05:475][ 55]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.05:495][ 55]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.05:540][ 55]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.47.07:722][265]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.09:669][452]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.11:375][611]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.47.11:375][611]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.47.11:375][611]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.47.11:375][611]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.47.24:030][891]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.47.24:706][891]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.24:782][891]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.24:874][891]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.47.24:982][891]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.47.26:169][891]TextureStreamingBuild: Display: Compiling optional shaders took 1.193 seconds.
+[2018.01.27-12.47.31:561][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.47.31:639][891]LogSavePackage: Save=36.99ms
+[2018.01.27-12.47.31:639][891]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticleC90A3D3243A41CD1352BB983CCE1B91D.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.47.31:680][891]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.47.31:695][891]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.47.31:695][891]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.47.31:695][891]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.47.31:695][891]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.51.10:381][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.51.11:013][617]LogSavePackage: Save=593.81ms
+[2018.01.27-12.51.11:013][617]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog4D2553534262B6600497C98DFA348E2F.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.51.11:055][617]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.51.14:077][974]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.16:115][172]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.51.16:115][172]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.51.16:115][172]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.27-12.51.16:115][172]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.51.18:118][409]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.18:141][409]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.51.19:174][497]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.51.20:059][497]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.20:131][497]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.20:226][497]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.20:339][497]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.51.21:520][497]TextureStreamingBuild: Display: Compiling optional shaders took 1.189 seconds.
+[2018.01.27-12.51.26:843][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.51.26:892][497]LogSavePackage: Save=21.69ms
+[2018.01.27-12.51.26:893][497]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticle5F0C6B854A12FB12D9A762BA7C5C2DD6.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.51.26:922][497]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.51.26:942][497]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.51.26:942][497]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.51.26:942][497]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.51.26:942][497]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.51.37:711][781]LogMaterialEditor: Applying material M_FogParticle
+[2018.01.27-12.51.38:372][781]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.38:446][781]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.38:539][781]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.38:648][781]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.51.39:819][781]TextureStreamingBuild: Display: Compiling optional shaders took 1.178 seconds.
+[2018.01.27-12.51.42:297][982]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.42:331][982]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.27-12.51.43:699][ 90]LogMaterialEditor: Saving and Compiling material M_FogParticle
+[2018.01.27-12.51.44:685][ 90]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.44:771][ 90]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.44:859][ 90]LogMaterial: Missing cached shader map for material M_FogParticle, compiling. 
+[2018.01.27-12.51.44:977][ 90]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy M_FogParticle, compiling. 
+[2018.01.27-12.51.46:332][ 90]TextureStreamingBuild: Display: Compiling optional shaders took 1.364 seconds.
+[2018.01.27-12.51.52:837][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_FogParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset" SILENT=true
+[2018.01.27-12.51.52:888][ 90]LogSavePackage: Save=22.29ms
+[2018.01.27-12.51.52:888][ 90]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_FogParticle526A84CD4F2BB22A98872BA9F212F0CF.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset'
+[2018.01.27-12.51.52:916][ 90]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.51.52:932][ 90]MaterialEditorStats: Base pass shader: 51 instructions
+[2018.01.27-12.51.52:932][ 90]MaterialEditorStats: Vertex shader: 124 instructions
+[2018.01.27-12.51.52:932][ 90]MaterialEditorStats: Texture samplers: 7/16
+[2018.01.27-12.51.52:932][ 90]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.27-12.51.59:246][448]LogSavePackage: Save=3099.61ms
+[2018.01.27-12.51.59:246][448]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_Auto52B41124B437E1A3EDCCFBBA8657DC887.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap'
+[2018.01.27-12.51.59:259][448]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto5.umap
+[2018.01.27-12.51.59:282][448]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 3.266
+[2018.01.27-12.51.59:282][448]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.266
+[2018.01.27-12.52.31:517][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Fog" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset" SILENT=true
+[2018.01.27-12.52.32:157][739]LogSavePackage: Save=614.03ms
+[2018.01.27-12.52.32:157][739]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Fog5551DFED4CE55405AAEE27A40A81C7EE.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset'
+[2018.01.27-12.52.32:200][739]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.52.43:679][823]Cmd: DELETE
+[2018.01.27-12.52.43:679][823]Cmd: ACTOR DELETE
+[2018.01.27-12.52.43:680][823]LogEditorActor: Deleted Actor: Emitter
+[2018.01.27-12.52.43:702][823]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2018.01.27-12.52.49:761][421]Cmd: DELETE
+[2018.01.27-12.52.49:761][421]Cmd: ACTOR DELETE
+[2018.01.27-12.52.49:761][421]LogEditorActor: Deleted Actor: Emitter
+[2018.01.27-12.52.49:780][421]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2018.01.27-12.52.57:941][211]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-12.53.03:172][211]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-12.53.03:328][211]SourceControl: [master 644c7d6] Update
+[2018.01.27-12.53.03:328][211]SourceControl:  5 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Material/M_FogParticle.uasset
+[2018.01.27-12.53.03:328][211]SourceControl:  rewrite GGJ_2018_Group_C/Content/Textures/T_Particle.uasset (100%)
+[2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Textures/T_PossesedParticle.uasset
+[2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/Textures/T_RedFog.uasset
+[2018.01.27-12.53.03:328][211]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Fog.uasset
+[2018.01.27-12.53.03:338][211]SourceControl: Commited [master 644c7d6] Update.
