@@ -18722,3 +18722,33 @@ LogInit: Object subsystem initialized
 [2018.01.27-19.21.35:547][630]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_BuiltDataDDFACDF4433ABAAB43F9199E817C49BC.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
 [2018.01.27-19.21.35:591][630]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
 [2018.01.27-19.21.35:608][630]LogPackageName: SearchForPackageOnDisk took   0.002s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapJakob.
+[2018.01.27-19.22.50:115][  4]LogPackageName: SearchForPackageOnDisk took   0.001s, but failed to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.
+[2018.01.27-19.22.50:119][  4]LogAIModule: Creating AISystem for world ThirdPersonExampleMapBackUP
+[2018.01.27-19.22.58:118][  4]LogSavePackage: Save=7831.00ms
+[2018.01.27-19.22.58:118][  4]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMapBackUP32C658C340771962572B4790A9D74C49.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap'
+[2018.01.27-19.22.58:909][  4]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap
+[2018.01.27-19.23.06:909][  4]LogSavePackage: Save=1737.22ms
+[2018.01.27-19.23.06:909][  4]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMapBackUP_BuiltDataAD9E09354DD2F4BDD3CF94BBCD42F532.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_BuiltData.uasset'
+[2018.01.27-19.23.06:926][  4]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_BuiltData.uasset
+[2018.01.27-19.23.09:175][  4]LogFileHelpers: Saving map 'ThirdPersonExampleMapBackUP' took 20.786
+[2018.01.27-19.23.09:181][  4]Cmd: MAP LOAD FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.27-19.23.09:192][  4]LightingResults: New page: Lighting Build
+[2018.01.27-19.23.09:193][  4]LoadErrors: New page: Loading map: ThirdPersonExampleMapBackUP.umap
+[2018.01.27-19.23.09:204][  4]MapCheck: New page: Map Check
+[2018.01.27-19.23.09:204][  4]LightingResults: New page: Lighting Build
+[2018.01.27-19.23.09:263][  4]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.27-19.23.10:953][  4]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.27-19.23.11:285][  4]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 332.728ms to complete.
+[2018.01.27-19.23.11:285][  4]LogFileHelpers: Loading map 'ThirdPersonExampleMapBackUP' took 2.109
+[2018.01.27-19.23.11:346][  5]LogPackageName: SearchForPackageOnDisk took   0.003s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.
+[2018.01.27-19.23.20:687][ 40]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-19.23.32:350][ 40]LogSavePackage: Save=4683.38ms
+[2018.01.27-19.23.32:350][ 40]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMapBackUPAC2ADD82463F0F9A878DB79A241C4E44.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap'
+[2018.01.27-19.23.32:432][ 40]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap
+[2018.01.27-19.23.34:861][ 40]LogFileHelpers: Saving map 'ThirdPersonExampleMapBackUP' took 11.899
+[2018.01.27-19.23.53:415][ 40]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-19.23.54:316][ 40]SourceControl: [master 4789dff] update
+[2018.01.27-19.23.54:316][ 40]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-19.23.54:316][ 40]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP.umap
+[2018.01.27-19.23.54:316][ 40]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMapBackUP_BuiltData.uasset
+[2018.01.27-19.23.54:321][ 40]SourceControl: Commited [master 4789dff] update.
