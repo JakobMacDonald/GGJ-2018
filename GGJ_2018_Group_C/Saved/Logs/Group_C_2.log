@@ -18714,3 +18714,11 @@ LogInit: Object subsystem initialized
 [2018.01.27-19.19.19:335][ 12]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/AI/Enemy_AI_Controller.uasset (69%)
 [2018.01.27-19.19.19:335][ 12]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/BP_Vent.uasset (71%)
 [2018.01.27-19.19.19:340][ 12]SourceControl: Commited [master eb71064] update.
+[2018.01.27-19.20.46:466][623]LogPackageName: SearchForPackageOnDisk took   0.001s to resolve /Game/ThirdPersonBP/Blueprints/BP_Actors/BP_Light.
+[2018.01.27-19.21.15:799][630]LogSavePackage: Save=10253.87ms
+[2018.01.27-19.21.15:799][630]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap32C2ECC34B02C472A585A4A0FA4FAA15.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.01.27-19.21.15:847][630]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.01.27-19.21.35:547][630]LogSavePackage: Save=1696.52ms
+[2018.01.27-19.21.35:547][630]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonExampleMap_BuiltDataDDFACDF4433ABAAB43F9199E817C49BC.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.01.27-19.21.35:591][630]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.01.27-19.21.35:608][630]LogPackageName: SearchForPackageOnDisk took   0.002s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMapJakob.
