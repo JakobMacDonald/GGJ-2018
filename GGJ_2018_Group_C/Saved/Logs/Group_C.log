@@ -317,3 +317,20 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.39.36:713][921]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.01.27-13.39.36:713][921]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/BP_Actors/Thing.uasset
 [2018.01.27-13.39.36:722][921]SourceControl: Commited [master 616b78a] Update.
+[2018.01.27-13.47.48:691][ 48]LogMaterial: Missing cached shader map for material M_PossedParticleTjhing, compiling. 
+[2018.01.27-13.47.48:961][ 48]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.27-13.47.54:921][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Material/M_PossedParticle" FILE="E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset" SILENT=true
+[2018.01.27-13.47.54:958][ 48]LogSavePackage: Save=11.02ms
+[2018.01.27-13.47.54:958][ 48]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticle85D5C9C3415D94D45B36B8AEAEFA897D.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset'
+[2018.01.27-13.47.54:986][ 48]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/Material/M_PossedParticle.uasset
+[2018.01.27-13.47.55:757][ 48]LogSavePackage: Save=673.39ms
+[2018.01.27-13.47.55:757][ 48]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/P_Possesd8BF567DC4540DC6390E1E88DB661BD82.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset'
+[2018.01.27-13.47.55:788][ 48]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
+[2018.01.27-13.47.58:936][216]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.014
+[2018.01.27-13.47.58:938][216]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Material/M_PossedParticleTjhing] ([1] browsable assets)...
+[2018.01.27-13.47.58:953][216]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Material/M_PossedParticleTjhing.M_PossedParticleTjhing]
+[2018.01.27-13.47.58:953][216]OBJ SavePackage: Finished generating thumbnails for package [/Game/Material/M_PossedParticleTjhing]
+[2018.01.27-13.47.59:028][216]LogSavePackage: Save=36.70ms
+[2018.01.27-13.47.59:028][216]LogSavePackage: Moving 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/M_PossedParticleTjhing_Auto18F92BDC74273759B96B6B9B5EFA30792.tmp' to 'E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/Material/M_PossedParticleTjhing_Auto1.uasset'
+[2018.01.27-13.47.59:036][216]LogSavePackage: Display: Finished SavePackage E:/GlobalGamesJame/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/Material/M_PossedParticleTjhing_Auto1.uasset
+[2018.01.27-13.47.59:036][216]LogFileHelpers: Auto-saving content packages took 0.099
