@@ -279,3 +279,6 @@ LogInit: Object subsystem initialized
 [2018.01.27-13.30.08:414][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
 [2018.01.27-13.30.08:414][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000084 seconds (updated 0 objects)
 [2018.01.27-13.30.09:301][ 45]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.27-13.31.52:316][348]SourceControl: On branch master
+[2018.01.27-13.31.52:316][348]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.27-13.31.52:316][348]SourceControl: nothing to commit, working tree clean
