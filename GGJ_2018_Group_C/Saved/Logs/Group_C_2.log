@@ -6375,3 +6375,30 @@ LogInit: Object subsystem initialized
 [2018.01.27-15.07.54:619][562]SourceControl:  create mode 100644 GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Sprites/S_Vent.uasset
 [2018.01.27-15.07.54:619][562]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (77%)
 [2018.01.27-15.07.54:624][562]SourceControl: Commited [master 349ea37] UPDATE.
+[2018.01.27-15.12.23:315][652]SourceControl: On branch master
+[2018.01.27-15.12.23:315][652]SourceControl: Your branch and 'origin/master' have diverged,
+[2018.01.27-15.12.23:315][652]SourceControl: and have 3 and 8 different commits each, respectively.
+[2018.01.27-15.12.23:315][652]SourceControl:   (use "git pull" to merge the remote branch into yours)
+[2018.01.27-15.12.23:315][652]SourceControl: Changes not staged for commit:
+[2018.01.27-15.12.23:315][652]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2018.01.27-15.12.23:315][652]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.27-15.12.23:315][652]SourceControl: 	modified:   .gitignore
+[2018.01.27-15.12.23:315][652]SourceControl: Untracked files:
+[2018.01.27-15.12.23:315][652]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.27-15.12.23:315][652]SourceControl: 	GGJ_2018_Group_C/Saved/Backup/ThirdPersonExampJakobs_2018-01-27-15-09-06.umap
+[2018.01.27-15.12.23:315][652]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.27-15.12.23:921][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Posses" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Posses.uasset" SILENT=true
+[2018.01.27-15.12.25:385][652]LogSavePackage: Save=1420.81ms
+[2018.01.27-15.12.25:385][652]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/P_Posses160E321140DEA4D78C9989A2A9D4E749.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Posses.uasset'
+[2018.01.27-15.12.25:443][652]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Posses.uasset
+[2018.01.27-15.12.28:039][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Particles/P_Possesd" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset" SILENT=true
+[2018.01.27-15.12.28:258][652]LogSavePackage: Save=34.86ms
+[2018.01.27-15.12.28:259][652]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/P_PossesdB1EDF91447DD5126738508B62AD47746.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset'
+[2018.01.27-15.12.28:327][652]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset
+[2018.01.27-15.12.35:480][241]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.27-15.12.46:799][241]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.27-15.12.47:803][241]SourceControl: [master 6cd5882] update
+[2018.01.27-15.12.47:803][241]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.27-15.12.47:803][241]SourceControl:  copy GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/{P_Possesd.uasset => P_Posses.uasset} (78%)
+[2018.01.27-15.12.47:803][241]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Particles/P_Possesd.uasset (99%)
+[2018.01.27-15.12.47:808][241]SourceControl: Commited [master 6cd5882] update.
