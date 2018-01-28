@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿Log file open, 01/28/18 10:33:33
+=======
+﻿Log file open, 01/28/18 10:19:24
+>>>>>>> baabea3390e0f742b5df726b7ba8b11493806287
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,9 +13,15 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: Group_C
 LogPlatformFile: Not using cached read wrapper
+<<<<<<< HEAD
 LogInit: Display: RandInit(-1144091881) SRandInit(-1144091881).
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.188723
+=======
+LogInit: Display: RandInit(2045832117) SRandInit(2045832117).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.211238
+>>>>>>> baabea3390e0f742b5df726b7ba8b11493806287
 LogD3D11RHI: Aftermath initialized
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin LightPropagationVolume
@@ -113,6 +123,7 @@ LogInit: Base directory: C:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
+<<<<<<< HEAD
 [2018.01.28-10.33.34:654][  0]LogInit: Selected Device Profile: [Windows]
 [2018.01.28-10.33.34:654][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.01.28-10.33.34:682][  0]LogInit: Computer: GC010714R
@@ -576,3 +587,1486 @@ Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Checkpoint
 [2018.01.28-10.43.31:756][726]LogModuleManager: Shutting down and abandoning module PakFile (2)
 [2018.01.28-10.43.31:760][726]LogExit: Exiting.
 [2018.01.28-10.43.31:835][726]Log file closed, 01/28/18 10:43:31
+=======
+[2018.01.28-10.19.26:675][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-10.19.26:675][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.28-10.19.27:454][  0]LogInit: Computer: GC010700R
+[2018.01.28-10.19.27:454][  0]LogInit: User: LEEverson
+[2018.01.28-10.19.27:454][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.28-10.19.27:454][  0]LogInit: High frequency timer resolution =3.215349 MHz
+[2018.01.28-10.19.27:455][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.28-10.19.27:455][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.28-10.19.27:455][  0]LogMemory: Process Physical Memory: 282.12 MB used, 282.12 MB peak
+[2018.01.28-10.19.27:455][  0]LogMemory: Process Virtual Memory: 278.48 MB used, 278.48 MB peak
+[2018.01.28-10.19.27:455][  0]LogMemory: Physical Memory: 4036.63 MB used,  12291.71 MB free, 16328.34 MB total
+[2018.01.28-10.19.27:455][  0]LogMemory: Virtual Memory: 670.03 MB used,  12291.71 MB free, 134217728.00 MB total
+[2018.01.28-10.19.28:037][  0]LogInit: Using OS detected language (en-GB).
+[2018.01.28-10.19.28:038][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.28-10.19.28:107][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.01.28-10.19.31:447][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.28-10.19.31:479][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 660' (Feature Level 11_0)
+[2018.01.28-10.19.31:479][  0]LogD3D11RHI:       2015/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.28-10.19.31:481][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.28-10.19.31:481][  0]LogD3D11RHI:       0/0/8164 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.28-10.19.31:481][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.28-10.19.31:485][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.28-10.19.31:485][  0]LogD3D11RHI:     GPU DeviceId: 0x11c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.28-10.19.31:485][  0]LogWindows: EnumDisplayDevices:
+[2018.01.28-10.19.31:485][  0]LogWindows:    0. 'NVIDIA GeForce GTX 660' (P:1 D:1)
+[2018.01.28-10.19.31:485][  0]LogWindows:    1. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.01.28-10.19.31:486][  0]LogWindows:    2. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.01.28-10.19.31:486][  0]LogWindows:    3. 'NVIDIA GeForce GTX 660' (P:0 D:0)
+[2018.01.28-10.19.31:486][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.01.28-10.19.31:486][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 660
+[2018.01.28-10.19.31:486][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2018.01.28-10.19.31:486][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2018.01.28-10.19.31:486][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2018.01.28-10.19.31:499][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.28-10.19.31:516][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.28-10.19.31:517][  0]LogShaderCompilers: Guid format shader working directory is 13 characters bigger than the processId version (G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Intermediate/Shaders/WorkingDirectory/6020/).
+[2018.01.28-10.19.31:517][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/LEEverson/AppData/Local/Temp/UnrealShaderWorkingDir/D3AD45114D346AED997E77A24797888D/'.
+[2018.01.28-10.19.31:517][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.28-10.19.33:798][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.28-10.19.33:914][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.28-10.19.34:033][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.28-10.19.34:151][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.28-10.19.34:275][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.28-10.19.34:396][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.28-10.19.34:517][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.28-10.19.34:636][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.28-10.19.34:744][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.28-10.19.34:875][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.28-10.19.34:994][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.28-10.19.35:110][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.28-10.19.35:239][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.28-10.19.35:352][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.28-10.19.35:466][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.28-10.19.35:693][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.28-10.19.35:693][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.28-10.19.35:798][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.28-10.19.36:011][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.28-10.19.36:089][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.28-10.19.36:213][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.28-10.19.36:331][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.28-10.19.36:448][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.28-10.19.36:584][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.28-10.19.36:584][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.28-10.19.37:973][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: Loaded boot cache 0.91s 93MB C:/Users/LEEverson/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/LEEverson/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.28-10.19.38:882][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.28-10.19.38:936][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.28-10.19.38:949][  0]LogDerivedDataCache: Using Local data cache path C:/Users/LEEverson/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.28-10.19.38:960][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.28-10.19.38:961][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.28-10.19.38:972][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-10.19.38:972][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.28-10.19.41:348][  0]LogAssetRegistry: FAssetRegistry took 0.2162 seconds to start up
+[2018.01.28-10.19.41:867][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.28-10.19.42:678][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.01.28-10.19.43:415][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.28-10.19.43:518][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.28-10.19.43:518][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.28-10.19.43:518][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.28-10.19.43:518][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.28-10.19.43:518][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.28-10.19.44:987][  0]LogNetVersion: Group_C , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2017696342)
+[2018.01.28-10.19.47:043][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 1.127155 seconds
+[2018.01.28-10.19.47:049][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2018.01.28-10.19.47:049][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2018.01.28-10.19.47:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.28-10.19.47:233][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.28-10.20.03:942][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.28-10.20.04:020][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.28-10.20.05:564][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.28-10.20.07:215][  0]SourceControl: Source control is disabled
+[2018.01.28-10.20.10:398][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.28-10.20.10:964][  0]LogOcInput: OculusInput pre-init called
+[2018.01.28-10.20.11:570][  0]LogEngine: Initializing Engine...
+[2018.01.28-10.20.11:572][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.28-10.20.11:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.28-10.20.11:851][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.28-10.20.12:153][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.28-10.20.12:163][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.20.12:218][  0]LogInit: FAudioDevice initialized.
+[2018.01.28-10.20.12:416][  0]LogDerivedDataCache: Saved boot cache 0.20s 93MB C:/Users/LEEverson/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.01.28-10.20.12:424][  0]LogInit: Texture streaming: Enabled
+[2018.01.28-10.20.12:716][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.28-10.20.13:311][  0]LogInit: Transaction tracking system initialized
+[2018.01.28-10.20.14:080][  0]BlueprintLog: New page: Editor Load
+[2018.01.28-10.20.16:328][  0]LocalizationService: Localization service is disabled
+[2018.01.28-10.20.18:348][  0]LogConsoleResponse: Display: 
+[2018.01.28-10.20.18:874][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.28-10.20.18:874][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.28-10.20.18:874][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.28-10.20.19:218][  0]LogFileCache: Scanning file cache for directory 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/' took 0.03s
+[2018.01.28-10.20.21:594][  0]Cmd: MAP LOAD FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-10.20.21:596][  0]LightingResults: New page: Lighting Build
+[2018.01.28-10.20.21:697][  0]MapCheck: New page: Map Check
+[2018.01.28-10.20.21:697][  0]LightingResults: New page: Lighting Build
+[2018.01.28-10.20.22:501][  0]LogBlueprint: Warning: [Player_HUD] 'Checkpoint' variable not found. Base class was probably changed.
+[2018.01.28-10.20.22:540][  0]LogBlueprint: Warning: [Compiler Player_HUD] Could not find a variable named "Checkpoint" in 'ThirdPersonCharacter_C'.
+Make sure 'ThirdPersonCharacter_C' has been compiled for  Get Checkpoint
+[2018.01.28-10.20.22:582][  0]LogBlueprint: Error: [Compiler Player_HUD] The property associated with  Checkpoint  could not be found
+[2018.01.28-10.20.22:599][  0]LogBlueprint: Warning: [Compiler Player_HUD] [0063.25] Compile of Player_HUD failed. 1 Fatal Issue(s) 1 Warning(s) [in 135 ms] (/Game/ThirdPersonBP/Blueprints/Player_HUD.Player_HUD)
+[2018.01.28-10.20.23:411][  0]LogTexture: Display: Building textures: RedZone (AutoDXT, 764X764)
+[2018.01.28-10.20.23:411][  0]LogMaterial: Missing cached shader map for material M_PossedParticleTjhing, compiling. 
+[2018.01.28-10.20.23:954][  0]LogTexture: Display: Building textures: icon_security (BGRA8, 777X776)
+[2018.01.28-10.20.23:954][  0]LogTexture: Display: Building textures: Cone (AutoDXT, 764X764)
+[2018.01.28-10.20.23:954][  0]LogTexture: Display: Building textures: BOSS (BGRA8, 580X579)
+[2018.01.28-10.20.23:954][  0]LogTexture: Display: Building textures: icon_janitor (BGRA8, 777X776)
+[2018.01.28-10.20.23:954][  0]LogTexture: Display: Building textures: icon_doctor (BGRA8, 777X776)
+[2018.01.28-10.20.23:955][  0]LogTexture: Display: Building textures: icon_parasite (BGRA8, 777X776)
+[2018.01.28-10.20.23:955][  0]LogTexture: Display: Building textures: mapoutline_parasite (BGRA8, 710X911)
+[2018.01.28-10.20.24:423][  0]LogStaticMesh: Building static mesh SM_Door1...
+[2018.01.28-10.20.24:435][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Modular/SM_Door1.SM_Door1
+[2018.01.28-10.20.24:450][  0]LogMaterial: Missing cached shader map for material M_Door_Guard, compiling. 
+[2018.01.28-10.20.24:711][  0]LogStaticMesh: Building static mesh SM_LightFixtureHORI...
+[2018.01.28-10.20.24:727][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Modular/SM_LightFixtureHORI.SM_LightFixtureHORI
+[2018.01.28-10.20.24:917][  0]LogMaterial: Missing cached shader map for material M_Case, compiling. 
+[2018.01.28-10.20.24:972][  0]LogMaterial: Missing cached shader map for material M_Light, compiling. 
+[2018.01.28-10.20.25:028][  0]LogMaterial: Missing cached shader map for material M_Silver, compiling. 
+[2018.01.28-10.20.25:074][  0]LogMaterial: Missing cached shader map for material M_Glass2, compiling. 
+[2018.01.28-10.20.25:115][  0]LogMaterial: Missing cached shader map for material M_Frame1, compiling. 
+[2018.01.28-10.20.25:156][  0]LogMaterial: Missing cached shader map for material M_Door_Cleaner, compiling. 
+[2018.01.28-10.20.25:186][  0]LogMaterial: Missing cached shader map for material M_Door_Doctor, compiling. 
+[2018.01.28-10.20.25:872][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.01.28-10.20.25:931][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-10.20.25:979][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-10.20.26:265][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 285.633ms to complete.
+[2018.01.28-10.20.26:266][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 4.672
+[2018.01.28-10.20.26:603][  0]LogCollectionManager: Loaded 0 collections in 0.003862 seconds
+[2018.01.28-10.20.26:850][  0]LogFileCache: Scanning file cache for directory 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Collections/' took 0.01s
+[2018.01.28-10.20.26:850][  0]LogFileCache: Scanning file cache for directory 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Developers/LEEverson/Collections/' took 0.01s
+[2018.01.28-10.20.26:850][  0]LogFileCache: Scanning file cache for directory 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Collections/' took 0.01s
+[2018.01.28-10.20.26:850][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.28-10.20.26:870][  0]LogContentBrowser: Native class hierarchy populated in 0.0198 seconds. Added 2386 classes and 500 folders.
+[2018.01.28-10.20.27:121][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0021 seconds. Added 0 classes and 0 folders.
+[2018.01.28-10.20.27:569][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0022 seconds. Added 0 classes and 0 folders.
+[2018.01.28-10.20.27:730][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0020 seconds. Added 1 classes and 2 folders.
+[2018.01.28-10.20.27:770][  0]LogSlate: Took 0.004389 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-10.20.27:851][  0]LogSlate: Took 0.078262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.28-10.20.27:869][  0]LogSlate: Took 0.011439 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.28-10.20.28:100][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-10.20.28:145][  0]LogRenderer: Reallocating scene render targets to support 1208x652 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-10.20.28:271][  0]LogSlate: Took 0.069045 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-10.20.28:666][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2018.01.28-10.20.28:666][  0]LogLoad: (Engine Initialization) Total time: 69.32 seconds
+[2018.01.28-10.20.28:666][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.28-10.20.28:667][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.28-10.20.28:721][  0]SourceControl: On branch master
+[2018.01.28-10.20.28:721][  0]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2018.01.28-10.20.28:721][  0]SourceControl: Changes not staged for commit:
+[2018.01.28-10.20.28:721][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.01.28-10.20.28:721][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.01.28-10.20.28:722][  0]SourceControl: 	modified:   GGJ_2018_Group_C/Intermediate/CachedAssetRegistry.bin
+[2018.01.28-10.20.28:722][  0]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Config/Windows/Editor.ini
+[2018.01.28-10.20.28:722][  0]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.01.28-10.20.28:722][  0]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Config/Windows/Engine.ini
+[2018.01.28-10.20.28:722][  0]SourceControl: 	deleted:    GGJ_2018_Group_C/Saved/Logs/Group_C-backup-2018.01.28-01.36.07.log
+[2018.01.28-10.20.28:722][  0]SourceControl: 	deleted:    GGJ_2018_Group_C/Saved/Logs/Group_C-backup-2018.01.28-07.07.41.log
+[2018.01.28-10.20.28:722][  0]SourceControl: 	modified:   GGJ_2018_Group_C/Saved/Logs/Group_C.log
+[2018.01.28-10.20.28:722][  0]SourceControl: 	deleted:    GGJ_2018_Group_C/Saved/Logs/Group_C_2-backup-2018.01.27-20.27.47.log
+[2018.01.28-10.20.28:722][  0]SourceControl: Untracked files:
+[2018.01.28-10.20.28:722][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.01.28-10.20.28:722][  0]SourceControl: 	GGJ_2018_Group_C/Saved/Config/CrashReportClient/UE4CC-Windows-E87071814EF152C1FEE2AA8FE5670C13/
+[2018.01.28-10.20.28:722][  0]SourceControl: 	GGJ_2018_Group_C/Saved/Logs/Group_C-backup-2018.01.28-10.19.23.log
+[2018.01.28-10.20.28:722][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
+[2018.01.28-10.20.28:722][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.28-10.20.28:867][  1]LogFileCache: Retrieving MD5 hashes for directory 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/' took 0.18s
+[2018.01.28-10.20.28:939][  2]LogAssetRegistry: Asset discovery search completed in 47.6138 seconds
+[2018.01.28-10.20.28:943][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.28-10.20.28:943][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000090 seconds (updated 0 objects)
+[2018.01.28-10.20.29:896][ 58]LogSlate: Took 0.000397 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-10.20.34:257][363]LogSlate: Took 0.000369 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.28-10.20.35:089][363]LogTexture: Display: Building textures: M_Papers_D (AutoDXT, 512X512)
+[2018.01.28-10.20.35:089][363]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2018.01.28-10.20.35:089][363]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2018.01.28-10.20.35:090][363]LogSlate: Took 0.000346 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.28-10.20.35:097][363]LogTexture: Display: Building textures: M_DecontamUnit_D (AutoDXT, 1024X1024)
+[2018.01.28-10.20.35:102][363]LogMaterial: Missing cached shader map for material M_orange, compiling. 
+[2018.01.28-10.20.35:138][363]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.01.28-10.20.35:138][363]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2018.01.28-10.20.35:138][363]LogStaticMesh: Building static mesh SM_Papers1...
+[2018.01.28-10.20.35:146][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Papers1.SM_Papers1
+[2018.01.28-10.20.35:146][363]LogStaticMesh: Building static mesh SM_Papers2...
+[2018.01.28-10.20.35:152][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Papers2.SM_Papers2
+[2018.01.28-10.20.35:153][363]LogStaticMesh: Building static mesh SM_Papers3...
+[2018.01.28-10.20.35:160][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Papers3.SM_Papers3
+[2018.01.28-10.20.35:176][363]LogStaticMesh: Building static mesh SM_PlasticChair...
+[2018.01.28-10.20.35:197][363]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Props/SM_PlasticChair.SM_PlasticChair
+[2018.01.28-10.20.35:199][363]LogStaticMesh: Building static mesh SM_PotPlant...
+[2018.01.28-10.20.35:251][363]LogStaticMesh: Built static mesh [0.05s] /Game/Meshes/Props/SM_PotPlant.SM_PotPlant
+[2018.01.28-10.20.35:256][363]LogMaterial: Missing cached shader map for material M_Silver3, compiling. 
+[2018.01.28-10.20.35:291][363]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.01.28-10.20.35:296][363]LogMaterial: Missing cached shader map for material M_OffWhite, compiling. 
+[2018.01.28-10.20.35:343][363]LogMaterial: Missing cached shader map for material M_Green, compiling. 
+[2018.01.28-10.20.35:377][363]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2018.01.28-10.20.35:377][363]LogStaticMesh: Building static mesh SM_Shelves...
+[2018.01.28-10.20.35:402][363]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/SM_Shelves.SM_Shelves
+[2018.01.28-10.20.35:406][363]LogMaterial: Missing cached shader map for material M_Lid, compiling. 
+[2018.01.28-10.20.35:485][363]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 64X512)
+[2018.01.28-10.20.35:485][363]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 1024X1024)
+[2018.01.28-10.20.35:485][363]LogStaticMesh: Building static mesh SM_TableLab...
+[2018.01.28-10.20.35:508][363]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Props/SM_TableLab.SM_TableLab
+[2018.01.28-10.20.35:515][363]LogStaticMesh: Building static mesh SM_TestTube...
+[2018.01.28-10.20.35:521][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_TestTube.SM_TestTube
+[2018.01.28-10.20.35:523][363]LogStaticMesh: Building static mesh SM_TubeRack...
+[2018.01.28-10.20.35:550][363]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/SM_TubeRack.SM_TubeRack
+[2018.01.28-10.20.35:556][363]LogMaterial: Missing cached shader map for material M_Tube, compiling. 
+[2018.01.28-10.20.35:603][363]LogStaticMesh: Building static mesh SM_WaterCooler...
+[2018.01.28-10.20.35:622][363]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Props/SM_WaterCooler.SM_WaterCooler
+[2018.01.28-10.20.35:626][363]LogStaticMesh: Building static mesh SM_walllight...
+[2018.01.28-10.20.35:638][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_walllight.SM_walllight
+[2018.01.28-10.20.35:642][363]LogMaterial: Missing cached shader map for material M_grey, compiling. 
+[2018.01.28-10.20.35:679][363]LogMaterial: Missing cached shader map for material M_LightBlue, compiling. 
+[2018.01.28-10.20.35:715][363]LogStaticMesh: Building static mesh SM_Microscope...
+[2018.01.28-10.20.35:745][363]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/SM_Microscope.SM_Microscope
+[2018.01.28-10.20.35:747][363]LogStaticMesh: Building static mesh SM_MetalSink...
+[2018.01.28-10.20.35:764][363]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Props/SM_MetalSink.SM_MetalSink
+[2018.01.28-10.20.35:765][363]LogStaticMesh: Building static mesh SM_MetalTable...
+[2018.01.28-10.20.35:787][363]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Props/SM_MetalTable.SM_MetalTable
+[2018.01.28-10.20.35:816][363]LogMaterial: Missing cached shader map for material M_Blue, compiling. 
+[2018.01.28-10.20.35:854][363]LogMaterial: Missing cached shader map for material M_black, compiling. 
+[2018.01.28-10.20.35:892][363]LogMaterial: Missing cached shader map for material M_white, compiling. 
+[2018.01.28-10.20.35:928][363]LogStaticMesh: Building static mesh sm_note_board...
+[2018.01.28-10.20.35:937][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/sm_note_board.sm_note_board
+[2018.01.28-10.20.35:941][363]LogMaterial: Missing cached shader map for material M_RedMetal, compiling. 
+[2018.01.28-10.20.35:978][363]LogStaticMesh: Building static mesh SM_DeskChair...
+[2018.01.28-10.20.36:011][363]LogStaticMesh: Built static mesh [0.03s] /Game/Meshes/Props/SM_DeskChair.SM_DeskChair
+[2018.01.28-10.20.36:018][363]LogStaticMesh: Building static mesh SM_FireExtinguisher...
+[2018.01.28-10.20.36:033][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_FireExtinguisher.SM_FireExtinguisher
+[2018.01.28-10.20.36:037][363]LogMaterial: Missing cached shader map for material M_DarkGray, compiling. 
+[2018.01.28-10.20.36:076][363]LogMaterial: Missing cached shader map for material M_Emissive, compiling. 
+[2018.01.28-10.20.36:130][363]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.01.28-10.20.36:169][363]LogStaticMesh: Building static mesh SM_locker...
+[2018.01.28-10.20.36:178][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_locker.SM_locker
+[2018.01.28-10.20.36:187][363]LogMaterial: Missing cached shader map for material M_Glass, compiling. 
+[2018.01.28-10.20.36:222][363]LogStaticMesh: Building static mesh SM_Lamp...
+[2018.01.28-10.20.36:242][363]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Props/SM_Lamp.SM_Lamp
+[2018.01.28-10.20.36:289][363]LogStaticMesh: Building static mesh SM_Piller...
+[2018.01.28-10.20.36:295][363]LogStaticMesh: Built static mesh [0.05s] /Game/Meshes/Modular/SM_Piller.SM_Piller
+[2018.01.28-10.20.36:321][363]LogMaterial: Missing cached shader map for material M_Piller, compiling. 
+[2018.01.28-10.20.36:372][363]LogMaterial: Missing cached shader map for material M_Beam, compiling. 
+[2018.01.28-10.20.36:409][363]LogStaticMesh: Building static mesh SM_SideWall...
+[2018.01.28-10.20.36:414][363]LogStaticMesh: Built static mesh [0.00s] /Game/Meshes/Modular/SM_SideWall.SM_SideWall
+[2018.01.28-10.20.36:418][363]LogMaterial: Missing cached shader map for material M_Bars, compiling. 
+[2018.01.28-10.20.36:454][363]LogStaticMesh: Building static mesh SM_StairRailing_SM_StairRailing...
+[2018.01.28-10.20.36:531][363]LogStaticMesh: Built static mesh [0.08s] /Game/Meshes/Modular/SM_StairRailing_SM_StairRailing.SM_StairRailing_SM_StairRailing
+[2018.01.28-10.20.36:533][363]LogStaticMesh: Building static mesh SM_WallForDoor1...
+[2018.01.28-10.20.36:550][363]LogStaticMesh: Built static mesh [0.02s] /Game/Meshes/Modular/SM_WallForDoor1.SM_WallForDoor1
+[2018.01.28-10.20.36:556][363]LogMaterial: Missing cached shader map for material M_Frame, compiling. 
+[2018.01.28-10.20.36:592][363]LogStaticMesh: Building static mesh SM_Wall...
+[2018.01.28-10.20.36:598][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Modular/SM_Wall.SM_Wall
+[2018.01.28-10.20.36:599][363]LogStaticMesh: Building static mesh SM_Stairs_SM_Stairs...
+[2018.01.28-10.20.36:679][363]LogStaticMesh: Built static mesh [0.08s] /Game/Meshes/Modular/SM_Stairs_SM_Stairs.SM_Stairs_SM_Stairs
+[2018.01.28-10.20.36:687][363]LogMaterial: Missing cached shader map for material M_Wall1, compiling. 
+[2018.01.28-10.20.36:724][363]LogStaticMesh: Building static mesh SM_WindowWall...
+[2018.01.28-10.20.36:765][363]LogStaticMesh: Built static mesh [0.04s] /Game/Meshes/Modular/SM_WindowWall.SM_WindowWall
+[2018.01.28-10.20.36:770][363]LogMaterial: Missing cached shader map for material M_Wall2, compiling. 
+[2018.01.28-10.20.36:813][363]LogMaterial: Missing cached shader map for material M_Glass1, compiling. 
+[2018.01.28-10.20.36:859][363]LogMaterial: Missing cached shader map for material M_Wall, compiling. 
+[2018.01.28-10.20.36:916][363]LogStaticMesh: Building static mesh SM_Bookshelf...
+[2018.01.28-10.20.36:928][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Bookshelf.SM_Bookshelf
+[2018.01.28-10.20.36:934][363]LogMaterial: Missing cached shader map for material M_Wood, compiling. 
+[2018.01.28-10.20.36:970][363]LogStaticMesh: Building static mesh SM_Bucket...
+[2018.01.28-10.20.36:978][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Bucket.SM_Bucket
+[2018.01.28-10.20.36:991][363]LogMaterial: Missing cached shader map for material M_Silver, compiling. 
+[2018.01.28-10.20.37:029][363]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.28-10.20.37:066][363]LogStaticMesh: Building static mesh SM_Crate...
+[2018.01.28-10.20.37:132][363]LogStaticMesh: Built static mesh [0.07s] /Game/Meshes/Props/SM_Crate.SM_Crate
+[2018.01.28-10.20.37:143][363]LogMaterial: Missing cached shader map for material M_MetalTable, compiling. 
+[2018.01.28-10.20.37:177][363]LogStaticMesh: Building static mesh SM_Desk...
+[2018.01.28-10.20.37:191][363]LogStaticMesh: Built static mesh [0.01s] /Game/Meshes/Props/SM_Desk.SM_Desk
+[2018.01.28-10.20.37:193][363]LogStaticMesh: Building static mesh SM_DecontamUnit...
+[2018.01.28-10.20.37:250][363]LogStaticMesh: Built static mesh [0.06s] /Game/Meshes/Props/SM_DecontamUnit.SM_DecontamUnit
+[2018.01.28-10.20.37:257][363]LogMaterial: Missing cached shader map for material M_DecontamUnit, compiling. 
+[2018.01.28-10.20.37:377][363]LogMaterial: Missing cached shader map for material M_Edge1, compiling. 
+[2018.01.28-10.20.37:419][363]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.01.28-10.20.37:459][363]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.20.37:532][363]Cmd: MAP LOAD FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Levels/GJ_GroupC_Level_1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.28-10.20.37:532][363]LightingResults: New page: Lighting Build
+[2018.01.28-10.20.37:534][363]LoadErrors: New page: Loading map: GJ_GroupC_Level_1.umap
+[2018.01.28-10.20.37:550][363]MapCheck: New page: Map Check
+[2018.01.28-10.20.37:550][363]LightingResults: New page: Lighting Build
+[2018.01.28-10.20.37:602][363]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.28-10.20.37:937][363]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.28-10.20.38:431][363]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 494.205ms to complete.
+[2018.01.28-10.20.38:432][363]LogFileHelpers: Loading map 'GJ_GroupC_Level_1' took 0.903
+[2018.01.28-10.20.39:468][417]LogRenderer: Reallocating scene render targets to support 1208x1044 Format 10 NumSamples 1 (Frame:42).
+[2018.01.28-10.21.54:067][157]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.21.56:431][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.22.03:391][157]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:22:03)
+[2018.01.28-10.22.03:391][157]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.22.03:413][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021869s)
+[2018.01.28-10.22.03:414][157]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.22.03:414][157]LogPlayLevel: PIE: World Init took: (0.000787s)
+[2018.01.28-10.22.03:414][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.023052s)
+[2018.01.28-10.22.03:428][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.22.03:437][157]LogInit: FAudioDevice initialized.
+[2018.01.28-10.22.03:498][157]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.22.03:509][157]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.22.03
+[2018.01.28-10.22.03:510][157]LogWorld: Bringing up level for play took: 0.010396
+[2018.01.28-10.22.03:632][157]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0019 seconds. Added 11 classes and 0 folders.
+[2018.01.28-10.22.03:641][157]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 6.235
+[2018.01.28-10.22.03:677][157]LogRenderer: Reallocating scene render targets to support 1292x1044 Format 10 NumSamples 1 (Frame:1).
+[2018.01.28-10.22.44:914][834]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0020 seconds. Added 113 classes and 0 folders.
+[2018.01.28-10.22.45:987][834]LogSlate: Took 0.012128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.28-10.22.55:842][874]BlueprintLog: New page: Compile Player_HUD
+[2018.01.28-10.23.00:899][378]BlueprintLog: New page: Compile Player_HUD
+[2018.01.28-10.23.02:110][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Player_HUD" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Player_HUD.uasset" SILENT=true
+[2018.01.28-10.23.04:551][440]LogSavePackage: Save=1287.44ms
+[2018.01.28-10.23.04:552][440]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Player_HUD6F7A138B4B0EBC70A427D0877FF06E73.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Player_HUD.uasset'
+[2018.01.28-10.23.04:607][440]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Player_HUD.uasset
+[2018.01.28-10.23.06:874][710]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.23.07:010][710]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.23.07:010][710]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:23:07)
+[2018.01.28-10.23.07:010][710]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.23.07:028][710]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018447s)
+[2018.01.28-10.23.07:029][710]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.23.07:029][710]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2018.01.28-10.23.07:029][710]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019546s)
+[2018.01.28-10.23.07:049][710]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.23.07:058][710]LogInit: FAudioDevice initialized.
+[2018.01.28-10.23.07:094][710]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.23.07:104][710]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.23.07
+[2018.01.28-10.23.07:104][710]LogWorld: Bringing up level for play took: 0.009518
+[2018.01.28-10.23.07:110][710]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 -0.298
+[2018.01.28-10.23.40:868][863]LogSlate: Took 0.017377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.28-10.23.52:201][366]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.23.52:326][366]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.23.52:362][366]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.23.52:372][366]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.23.52:375][366]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.23.52:385][366]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.23.52:749][366]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.23.52:820][366]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.23.53:044][366]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.23.53:072][366]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.23.54:373][366]LogPlayLevel: PlayLevel: Blueprint regeneration took 2046 ms (8 blueprints)
+[2018.01.28-10.23.54:373][366]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:23:54)
+[2018.01.28-10.23.54:373][366]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.23.54:391][366]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018270s)
+[2018.01.28-10.23.54:392][366]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.23.54:392][366]LogPlayLevel: PIE: World Init took: (0.000685s)
+[2018.01.28-10.23.54:392][366]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019269s)
+[2018.01.28-10.23.54:413][366]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.23.54:423][366]LogInit: FAudioDevice initialized.
+[2018.01.28-10.23.54:468][366]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.23.54:482][366]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.23.54
+[2018.01.28-10.23.54:482][366]LogWorld: Bringing up level for play took: 0.013017
+[2018.01.28-10.23.54:498][366]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 3.089
+[2018.01.28-10.26.00:934][928]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush)
+[2018.01.28-10.26.01:988][ 35]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2018.01.28-10.26.03:886][221]Cmd: DELETE
+[2018.01.28-10.26.03:886][221]Cmd: ACTOR DELETE
+[2018.01.28-10.26.03:887][221]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2018.01.28-10.26.03:911][221]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2018.01.28-10.26.06:494][498]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume2)
+[2018.01.28-10.26.37:173][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.26.37:173][541]PIE: New page: SIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:26:37)
+[2018.01.28-10.26.37:173][541]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.26.37:193][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019205s)
+[2018.01.28-10.26.37:193][541]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.26.37:194][541]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2018.01.28-10.26.37:194][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020376s)
+[2018.01.28-10.26.37:217][541]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.26.37:226][541]LogInit: FAudioDevice initialized.
+[2018.01.28-10.26.37:259][541]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.26.37:271][541]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.26.37
+[2018.01.28-10.26.37:271][541]LogWorld: Bringing up level for play took: 0.011477
+[2018.01.28-10.26.37:274][541]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 -0.14
+[2018.01.28-10.26.37:366][542]LogMaterial: Warning: Material /Game/M_Guard.M_Guard missing bUsedWithSkeletalMesh=True! Default Material will be used in game.
+[2018.01.28-10.26.37:366][542]LogMaterial: Warning:      The material will recompile every editor launch until resaved.
+[2018.01.28-10.26.38:037][590]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.39:047][645]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.40:060][701]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.41:070][755]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.42:076][815]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.42:923][893]LogTemp: Repeating last play command: Simulate
+[2018.01.28-10.26.43:036][893]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.26.43:036][893]PIE: New page: SIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:26:43)
+[2018.01.28-10.26.43:036][893]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.26.43:056][893]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019768s)
+[2018.01.28-10.26.43:056][893]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.26.43:056][893]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2018.01.28-10.26.43:057][893]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020823s)
+[2018.01.28-10.26.43:078][893]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.26.43:086][893]LogInit: FAudioDevice initialized.
+[2018.01.28-10.26.43:118][893]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.26.43:129][893]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.26.43
+[2018.01.28-10.26.43:130][893]LogWorld: Bringing up level for play took: 0.011204
+[2018.01.28-10.26.43:132][893]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 -0.282
+[2018.01.28-10.26.46:599][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.26.46:600][154]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:26:46)
+[2018.01.28-10.26.46:600][154]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.26.46:622][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022596s)
+[2018.01.28-10.26.46:623][154]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.26.46:623][154]LogPlayLevel: PIE: World Init took: (0.000727s)
+[2018.01.28-10.26.46:623][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.023650s)
+[2018.01.28-10.26.46:645][154]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.26.46:655][154]LogInit: FAudioDevice initialized.
+[2018.01.28-10.26.46:696][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.26.46:708][154]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.26.46
+[2018.01.28-10.26.46:708][154]LogWorld: Bringing up level for play took: 0.011710
+[2018.01.28-10.26.46:717][154]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 -0.697
+[2018.01.28-10.26.47:377][205]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.48:384][291]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.49:395][374]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.50:404][463]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.51:412][551]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.52:418][637]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.53:419][720]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.54:420][802]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.55:422][882]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.56:428][963]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.57:434][ 47]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.58:441][119]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.26.59:449][196]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.00:460][275]LogBlueprintUserMessages: [AI_Enemy_1283] 0.930588
+[2018.01.28-10.27.01:471][355]LogBlueprintUserMessages: [AI_Enemy_1283] 0.829472
+[2018.01.28-10.27.02:478][436]LogBlueprintUserMessages: [AI_Enemy_1283] 0.728655
+[2018.01.28-10.27.03:482][515]LogBlueprintUserMessages: [AI_Enemy_1283] 0.628338
+[2018.01.28-10.27.04:490][601]LogBlueprintUserMessages: [AI_Enemy_1283] 0.527322
+[2018.01.28-10.27.05:496][695]LogBlueprintUserMessages: [AI_Enemy_1283] 0.426827
+[2018.01.28-10.27.06:498][786]LogBlueprintUserMessages: [AI_Enemy_1283] 0.32654
+[2018.01.28-10.27.07:499][884]LogBlueprintUserMessages: [AI_Enemy_1283] 0.22645
+[2018.01.28-10.27.25:837][685]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.27.25:961][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.27.25:993][685]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.27.26:002][685]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.27.26:005][685]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.27.26:015][685]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.27.26:236][685]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.27.26:314][685]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.27.26:548][685]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.27.26:569][685]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.27.27:307][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 1345 ms (8 blueprints)
+[2018.01.28-10.27.27:307][685]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:27:27)
+[2018.01.28-10.27.27:307][685]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.27.27:326][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018593s)
+[2018.01.28-10.27.27:326][685]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.27.27:327][685]LogPlayLevel: PIE: World Init took: (0.000734s)
+[2018.01.28-10.27.27:327][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019673s)
+[2018.01.28-10.27.27:350][685]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.27.27:358][685]LogInit: FAudioDevice initialized.
+[2018.01.28-10.27.27:397][685]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.27.27:410][685]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.27.27
+[2018.01.28-10.27.27:411][685]LogWorld: Bringing up level for play took: 0.013125
+[2018.01.28-10.27.27:418][685]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 2.004
+[2018.01.28-10.27.28:299][725]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.29:311][795]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.30:315][863]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.31:316][932]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.32:319][  1]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.33:324][ 70]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.34:325][139]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.35:335][210]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.36:342][280]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.49:079][471]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.27.49:210][471]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.27.49:237][471]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.27.49:250][471]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.27.49:255][471]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.27.49:265][471]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.27.49:479][471]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.27.49:556][471]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.27.49:776][471]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.27.49:800][471]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.27.50:522][471]LogPlayLevel: PlayLevel: Blueprint regeneration took 1311 ms (8 blueprints)
+[2018.01.28-10.27.50:522][471]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:27:50)
+[2018.01.28-10.27.50:522][471]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.27.50:541][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018486s)
+[2018.01.28-10.27.50:541][471]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.27.50:541][471]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.01.28-10.27.50:542][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019574s)
+[2018.01.28-10.27.50:562][471]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.27.50:570][471]LogInit: FAudioDevice initialized.
+[2018.01.28-10.27.50:608][471]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.27.50:619][471]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.27.50
+[2018.01.28-10.27.50:620][471]LogWorld: Bringing up level for play took: 0.011737
+[2018.01.28-10.27.50:627][471]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.212
+[2018.01.28-10.27.51:481][511]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.52:482][580]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.53:489][649]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.54:492][717]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.55:504][787]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.56:516][854]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.57:522][919]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.58:525][986]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.27.59:535][ 56]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.09:550][912]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.28.09:682][912]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.28.09:709][912]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.28.09:718][912]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.28.09:721][912]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.28.09:730][912]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.28.09:968][912]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.28.10:047][912]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.28.10:271][912]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.28.10:291][912]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.28.10:974][912]LogPlayLevel: PlayLevel: Blueprint regeneration took 1292 ms (8 blueprints)
+[2018.01.28-10.28.10:974][912]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:28:10)
+[2018.01.28-10.28.10:974][912]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.28.10:993][912]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019045s)
+[2018.01.28-10.28.10:994][912]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.28.10:994][912]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2018.01.28-10.28.10:994][912]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020097s)
+[2018.01.28-10.28.11:016][912]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.28.11:024][912]LogInit: FAudioDevice initialized.
+[2018.01.28-10.28.11:064][912]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.28.11:076][912]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.28.11
+[2018.01.28-10.28.11:077][912]LogWorld: Bringing up level for play took: 0.011365
+[2018.01.28-10.28.11:083][912]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.668
+[2018.01.28-10.28.11:938][953]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.12:951][ 24]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.13:952][ 94]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.14:962][165]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.15:974][235]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.38:877][380]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.28.38:998][380]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.28.39:026][380]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.28.39:035][380]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.28.39:038][380]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.28.39:048][380]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.28.39:269][380]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.28.39:355][380]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.28.39:585][380]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.28.39:615][380]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.28.40:437][380]LogPlayLevel: PlayLevel: Blueprint regeneration took 1439 ms (8 blueprints)
+[2018.01.28-10.28.40:438][380]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:28:40)
+[2018.01.28-10.28.40:438][380]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.28.40:456][380]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018583s)
+[2018.01.28-10.28.40:457][380]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.28.40:457][380]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.01.28-10.28.40:457][380]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019655s)
+[2018.01.28-10.28.40:478][380]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.28.40:489][380]LogInit: FAudioDevice initialized.
+[2018.01.28-10.28.40:524][380]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.28.40:536][380]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.28.40
+[2018.01.28-10.28.40:537][380]LogWorld: Bringing up level for play took: 0.011634
+[2018.01.28-10.28.40:543][380]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.128
+[2018.01.28-10.28.41:423][417]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.42:427][488]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.43:439][561]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.44:445][633]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.49:100][ 24]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.28.49:219][ 24]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.28.49:247][ 24]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.28.49:256][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.28.49:259][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.28.49:273][ 24]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.28.49:490][ 24]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.28.49:566][ 24]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.28.49:803][ 24]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.28.49:823][ 24]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.28.50:561][ 24]LogPlayLevel: PlayLevel: Blueprint regeneration took 1341 ms (8 blueprints)
+[2018.01.28-10.28.50:561][ 24]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:28:50)
+[2018.01.28-10.28.50:561][ 24]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.28.50:580][ 24]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018407s)
+[2018.01.28-10.28.50:580][ 24]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.28.50:580][ 24]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2018.01.28-10.28.50:581][ 24]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019424s)
+[2018.01.28-10.28.50:604][ 24]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.28.50:612][ 24]LogInit: FAudioDevice initialized.
+[2018.01.28-10.28.50:645][ 24]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.28.50:657][ 24]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.28.50
+[2018.01.28-10.28.50:658][ 24]LogWorld: Bringing up level for play took: 0.012028
+[2018.01.28-10.28.50:666][ 24]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.25
+[2018.01.28-10.28.51:530][ 66]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.52:541][138]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.53:554][209]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.54:566][280]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.55:566][351]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.28.56:570][422]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.03:648][965]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.29.03:767][965]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.29.03:803][965]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.29.03:815][965]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.29.03:818][965]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.29.03:832][965]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.29.04:049][965]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.29.04:126][965]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.29.04:347][965]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.29.04:372][965]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.29.05:130][965]LogPlayLevel: PlayLevel: Blueprint regeneration took 1363 ms (8 blueprints)
+[2018.01.28-10.29.05:130][965]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:29:05)
+[2018.01.28-10.29.05:130][965]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.29.05:150][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020065s)
+[2018.01.28-10.29.05:151][965]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.29.05:151][965]LogPlayLevel: PIE: World Init took: (0.000803s)
+[2018.01.28-10.29.05:152][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.021231s)
+[2018.01.28-10.29.05:174][965]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.29.05:181][965]LogInit: FAudioDevice initialized.
+[2018.01.28-10.29.05:220][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.29.05:232][965]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.29.05
+[2018.01.28-10.29.05:233][965]LogWorld: Bringing up level for play took: 0.011532
+[2018.01.28-10.29.05:240][965]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.824
+[2018.01.28-10.29.06:104][  6]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.07:109][ 76]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.15:819][564]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.GroupC
+[2018.01.28-10.29.15:819][564]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.01.28-10.29.15:819][564]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.17
+[2018.01.28-10.29.15:819][564]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.17\Engine\Binaries\DotNET\IOS
+[2018.01.28-10.29.15:819][564]LogTemp: BranchPath = GC010700R/C/Program Files/Epic Games/UE_4.17/Engine/Binaries --- GameBranchPath = GC010700R/C/Program Files/Epic Games/UE_4.17/Engine/Binaries
+[2018.01.28-10.29.15:987][576]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\LEEverson\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.01.28-10.29.49:722][ 26]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.29.49:855][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.29.49:855][ 26]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:29:49)
+[2018.01.28-10.29.49:855][ 26]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.29.49:874][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019160s)
+[2018.01.28-10.29.49:875][ 26]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.29.49:875][ 26]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2018.01.28-10.29.49:875][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020329s)
+[2018.01.28-10.29.49:899][ 26]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.29.49:907][ 26]LogInit: FAudioDevice initialized.
+[2018.01.28-10.29.49:943][ 26]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.29.49:956][ 26]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.29.49
+[2018.01.28-10.29.49:957][ 26]LogWorld: Bringing up level for play took: 0.012264
+[2018.01.28-10.29.49:965][ 26]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.549
+[2018.01.28-10.29.50:719][ 82]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.51:728][170]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.52:737][256]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.53:748][341]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.54:750][422]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.55:758][501]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.56:770][583]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.57:779][659]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.58:788][738]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.29.59:793][826]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.07:362][501]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.30.08:207][501]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.30.08:235][501]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.30.08:244][501]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.30.08:247][501]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.30.08:257][501]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.30.08:482][501]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.30.08:554][501]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.30.08:777][501]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.30.08:799][501]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.30.09:547][501]LogPlayLevel: PlayLevel: Blueprint regeneration took 1340 ms (8 blueprints)
+[2018.01.28-10.30.09:547][501]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:30:09)
+[2018.01.28-10.30.09:547][501]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.30.09:566][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018258s)
+[2018.01.28-10.30.09:566][501]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.30.09:567][501]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2018.01.28-10.30.09:567][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019315s)
+[2018.01.28-10.30.09:589][501]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.30.09:597][501]LogInit: FAudioDevice initialized.
+[2018.01.28-10.30.09:631][501]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.30.09:644][501]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.30.09
+[2018.01.28-10.30.09:644][501]LogWorld: Bringing up level for play took: 0.011933
+[2018.01.28-10.30.09:651][501]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 2.235
+[2018.01.28-10.30.10:532][541]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.11:535][611]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.12:545][681]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.13:546][751]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.14:547][821]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.15:554][889]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.16:568][960]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.17:569][ 28]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.18:572][ 98]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.22:859][520]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.30.22:979][520]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.30.23:007][520]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.30.23:017][520]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.30.23:021][520]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.30.23:032][520]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.30.23:250][520]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.30.23:328][520]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.30.23:560][520]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.30.23:584][520]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.30.24:303][520]LogPlayLevel: PlayLevel: Blueprint regeneration took 1325 ms (8 blueprints)
+[2018.01.28-10.30.24:303][520]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:30:24)
+[2018.01.28-10.30.24:303][520]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.30.24:323][520]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019163s)
+[2018.01.28-10.30.24:324][520]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.30.24:324][520]LogPlayLevel: PIE: World Init took: (0.000687s)
+[2018.01.28-10.30.24:325][520]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020226s)
+[2018.01.28-10.30.24:346][520]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.30.24:354][520]LogInit: FAudioDevice initialized.
+[2018.01.28-10.30.24:386][520]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.30.24:400][520]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.30.24
+[2018.01.28-10.30.24:400][520]LogWorld: Bringing up level for play took: 0.013399
+[2018.01.28-10.30.24:406][520]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.99
+[2018.01.28-10.30.25:250][566]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.26:251][649]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.27:252][731]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.28:260][812]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.29:266][899]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.44:592][367]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.30.44:713][367]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.30.44:740][367]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.30.44:749][367]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.30.44:752][367]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.30.44:762][367]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.30.44:973][367]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.30.45:050][367]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.30.45:301][367]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.30.45:321][367]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.30.46:091][367]LogPlayLevel: PlayLevel: Blueprint regeneration took 1378 ms (8 blueprints)
+[2018.01.28-10.30.46:091][367]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:30:46)
+[2018.01.28-10.30.46:091][367]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.30.46:110][367]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018468s)
+[2018.01.28-10.30.46:110][367]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.30.46:110][367]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2018.01.28-10.30.46:111][367]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019550s)
+[2018.01.28-10.30.46:132][367]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.30.46:140][367]LogInit: FAudioDevice initialized.
+[2018.01.28-10.30.46:176][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.30.46:188][367]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.30.46
+[2018.01.28-10.30.46:189][367]LogWorld: Bringing up level for play took: 0.011710
+[2018.01.28-10.30.46:195][367]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.778
+[2018.01.28-10.30.47:059][406]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.48:062][471]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.49:064][537]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.50:071][604]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.51:072][670]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.52:076][735]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.53:090][802]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.54:092][866]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.55:100][932]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.56:109][998]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.57:115][ 65]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.58:122][132]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.30.59:136][200]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.00:148][268]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.01:156][335]LogBlueprintUserMessages: [AI_Enemy_1283] 0.907885
+[2018.01.28-10.31.02:166][403]LogBlueprintUserMessages: [AI_Enemy_1283] 0.806968
+[2018.01.28-10.31.03:169][470]LogBlueprintUserMessages: [AI_Enemy_1283] 0.706551
+[2018.01.28-10.31.04:185][539]LogBlueprintUserMessages: [AI_Enemy_1283] 0.605235
+[2018.01.28-10.31.05:196][607]LogBlueprintUserMessages: [AI_Enemy_1283] 0.503918
+[2018.01.28-10.31.06:200][674]LogBlueprintUserMessages: [AI_Enemy_1283] 0.40343
+[2018.01.28-10.31.07:213][743]LogBlueprintUserMessages: [AI_Enemy_1283] 0.302143
+[2018.01.28-10.31.08:224][812]LogBlueprintUserMessages: [AI_Enemy_1283] 0.201049
+[2018.01.28-10.31.09:237][880]LogBlueprintUserMessages: [AI_Enemy_1283] 0.100048
+[2018.01.28-10.31.10:230][947]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.28-10.31.10:230][947]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.28-10.31.10:230][947]LogBlueprintUserMessages: [Enemy_AI_Controller_C_0] AI_Enemy
+[2018.01.28-10.31.10:246][948]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.11:255][ 14]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.12:240][ 79]LogBlueprintUserMessages: [AI_Enemy_1283] Hello
+[2018.01.28-10.31.12:256][ 80]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.13:260][148]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.14:276][215]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.15:278][282]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.16:288][349]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.17:295][413]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.31.18:306][480]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.00:284][816]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.32.01:141][816]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.32.01:170][816]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.32.01:179][816]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.32.01:182][816]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.32.01:192][816]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.32.01:415][816]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.32.01:498][816]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.32.01:731][816]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.32.01:752][816]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.32.02:468][816]LogPlayLevel: PlayLevel: Blueprint regeneration took 1326 ms (8 blueprints)
+[2018.01.28-10.32.02:468][816]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:32:02)
+[2018.01.28-10.32.02:468][816]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.32.02:487][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018861s)
+[2018.01.28-10.32.02:488][816]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.32.02:488][816]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.01.28-10.32.02:488][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019944s)
+[2018.01.28-10.32.02:510][816]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.32.02:520][816]LogInit: FAudioDevice initialized.
+[2018.01.28-10.32.02:552][816]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.32.02:566][816]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.32.02
+[2018.01.28-10.32.02:567][816]LogWorld: Bringing up level for play took: 0.013493
+[2018.01.28-10.32.02:573][816]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.156
+[2018.01.28-10.32.03:321][853]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.04:323][928]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.05:332][  2]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.06:333][ 76]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.07:335][149]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.08:337][224]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.09:343][297]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.14:398][733]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.28-10.32.17:467][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.01.28-10.32.23:322][866]LogSavePackage: Save=2456.48ms
+[2018.01.28-10.32.23:322][866]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacterB389BCF34B160D3EF4715C9FFF56D907.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.28-10.32.23:394][866]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.28-10.32.52:693][804]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.32.52:821][804]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.32.52:849][804]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.32.52:858][804]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.32.52:861][804]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.32.52:871][804]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.32.53:090][804]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.32.53:161][804]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.32.53:387][804]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.32.53:408][804]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.32.54:154][804]LogPlayLevel: PlayLevel: Blueprint regeneration took 1332 ms (8 blueprints)
+[2018.01.28-10.32.54:154][804]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:32:54)
+[2018.01.28-10.32.54:154][804]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.32.54:173][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018415s)
+[2018.01.28-10.32.54:173][804]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.32.54:173][804]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2018.01.28-10.32.54:174][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019529s)
+[2018.01.28-10.32.54:195][804]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.32.54:204][804]LogInit: FAudioDevice initialized.
+[2018.01.28-10.32.54:241][804]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.32.54:253][804]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.32.54
+[2018.01.28-10.32.54:254][804]LogWorld: Bringing up level for play took: 0.011693
+[2018.01.28-10.32.54:260][804]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.842
+[2018.01.28-10.32.55:033][827]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.56:041][867]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.57:061][907]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.58:080][946]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.32.59:094][986]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.33.00:114][ 26]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.33.01:131][ 65]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.33.02:138][104]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.33.06:979][478]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2018.01.28-10.33.11:274][907]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.01.28-10.33.32:911][405]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.28-10.33.36:929][591]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.28-10.34.36:743][454]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2018.01.28-10.34.40:562][589]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.34.41:403][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.34.41:403][589]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:34:41)
+[2018.01.28-10.34.41:403][589]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.34.41:426][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022861s)
+[2018.01.28-10.34.41:427][589]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.34.41:427][589]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2018.01.28-10.34.41:427][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.023989s)
+[2018.01.28-10.34.41:451][589]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.34.41:459][589]LogInit: FAudioDevice initialized.
+[2018.01.28-10.34.41:502][589]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.34.41:515][589]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.34.41
+[2018.01.28-10.34.41:516][589]LogWorld: Bringing up level for play took: 0.012177
+[2018.01.28-10.34.41:525][589]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.107
+[2018.01.28-10.34.42:186][617]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.34.43:190][665]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.34.44:203][713]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.34.45:221][761]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.34.46:237][808]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.34.47:258][857]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.03:457][780]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.35.03:579][780]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.35.03:610][780]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.35.03:624][780]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.35.03:629][780]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.35.03:640][780]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.35.03:850][780]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.35.03:922][780]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.35.04:145][780]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.35.04:171][780]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.35.04:931][780]LogPlayLevel: PlayLevel: Blueprint regeneration took 1351 ms (8 blueprints)
+[2018.01.28-10.35.04:931][780]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:35:04)
+[2018.01.28-10.35.04:931][780]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.35.04:949][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018079s)
+[2018.01.28-10.35.04:950][780]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.35.04:950][780]LogPlayLevel: PIE: World Init took: (0.000686s)
+[2018.01.28-10.35.04:950][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019087s)
+[2018.01.28-10.35.04:972][780]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.35.04:980][780]LogInit: FAudioDevice initialized.
+[2018.01.28-10.35.05:019][780]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.35.05:031][780]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.35.05
+[2018.01.28-10.35.05:033][780]LogWorld: Bringing up level for play took: 0.012269
+[2018.01.28-10.35.05:040][780]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.621
+[2018.01.28-10.35.05:823][807]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.06:831][854]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.07:837][901]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.13:969][233]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.35.14:097][233]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.35.14:125][233]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.35.14:135][233]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.35.14:138][233]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.35.14:148][233]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.35.14:368][233]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.35.14:438][233]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.35.14:660][233]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.35.14:681][233]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.35.15:439][233]LogPlayLevel: PlayLevel: Blueprint regeneration took 1341 ms (8 blueprints)
+[2018.01.28-10.35.15:439][233]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:35:15)
+[2018.01.28-10.35.15:439][233]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.35.15:459][233]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019961s)
+[2018.01.28-10.35.15:460][233]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.35.15:460][233]LogPlayLevel: PIE: World Init took: (0.000699s)
+[2018.01.28-10.35.15:460][233]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.021000s)
+[2018.01.28-10.35.15:483][233]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.35.15:491][233]LogInit: FAudioDevice initialized.
+[2018.01.28-10.35.15:528][233]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.35.15:540][233]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.35.15
+[2018.01.28-10.35.15:541][233]LogWorld: Bringing up level for play took: 0.011371
+[2018.01.28-10.35.15:547][233]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 2.129
+[2018.01.28-10.35.16:399][236]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.17:399][239]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.18:399][270]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.19:403][316]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.20:407][362]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.21:413][408]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.22:427][454]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.23:434][501]LogBlueprintUserMessages: [AI_Enemy_1283] 0.921187
+[2018.01.28-10.35.24:438][548]LogBlueprintUserMessages: [AI_Enemy_1283] 0.82067
+[2018.01.28-10.35.25:452][595]LogBlueprintUserMessages: [AI_Enemy_1283] 0.719353
+[2018.01.28-10.35.26:456][641]LogBlueprintUserMessages: [AI_Enemy_1283] 0.618837
+[2018.01.28-10.35.27:466][688]LogBlueprintUserMessages: [AI_Enemy_1283] 0.51792
+[2018.01.28-10.35.28:484][736]LogBlueprintUserMessages: [AI_Enemy_1283] 0.416128
+[2018.01.28-10.35.29:490][783]LogBlueprintUserMessages: [AI_Enemy_1283] 0.315741
+[2018.01.28-10.35.30:497][831]LogBlueprintUserMessages: [AI_Enemy_1283] 0.215149
+[2018.01.28-10.35.31:515][879]LogBlueprintUserMessages: [AI_Enemy_1283] 0.112848
+[2018.01.28-10.35.32:522][927]LogBlueprintUserMessages: [AI_Enemy_1283] 0.012246
+[2018.01.28-10.35.32:632][932]LogBlueprintUserMessages: [Enemy_AI_Controller_C_0] AI_Enemy
+[2018.01.28-10.35.33:528][974]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.34:533][ 20]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.34:643][ 25]LogBlueprintUserMessages: [AI_Enemy_1283] Hello
+[2018.01.28-10.35.35:537][ 66]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.36:549][112]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.37:550][158]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.35.38:554][204]LogBlueprintUserMessages: [AI_Enemy_1283] 0.9978
+[2018.01.28-10.35.39:575][252]LogBlueprintUserMessages: [AI_Enemy_1283] 0.895383
+[2018.01.28-10.35.40:593][299]LogBlueprintUserMessages: [AI_Enemy_1283] 0.793466
+[2018.01.28-10.36.32:460][ 55]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.36.32:586][ 55]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.36.32:617][ 55]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.36.32:627][ 55]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.36.32:631][ 55]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.36.32:641][ 55]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.36.32:867][ 55]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.36.32:938][ 55]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.36.33:204][ 55]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.36.33:225][ 55]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.36.33:978][ 55]LogPlayLevel: PlayLevel: Blueprint regeneration took 1391 ms (8 blueprints)
+[2018.01.28-10.36.33:978][ 55]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:36:33)
+[2018.01.28-10.36.33:978][ 55]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.36.33:997][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018484s)
+[2018.01.28-10.36.33:997][ 55]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.36.33:997][ 55]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2018.01.28-10.36.33:998][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019563s)
+[2018.01.28-10.36.34:019][ 55]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.36.34:028][ 55]LogInit: FAudioDevice initialized.
+[2018.01.28-10.36.34:064][ 55]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.36.34:075][ 55]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.36.34
+[2018.01.28-10.36.34:076][ 55]LogWorld: Bringing up level for play took: 0.011393
+[2018.01.28-10.36.34:083][ 55]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.664
+[2018.01.28-10.36.35:038][ 85]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.36.36:048][139]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.36.37:057][193]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.36.38:071][248]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.36.39:091][302]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.36.59:022][528]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.36.59:193][528]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.36.59:221][528]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.36.59:230][528]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.36.59:233][528]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.36.59:243][528]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.36.59:460][528]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.36.59:539][528]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.36.59:761][528]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.36.59:782][528]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.00:576][528]LogPlayLevel: PlayLevel: Blueprint regeneration took 1383 ms (8 blueprints)
+[2018.01.28-10.37.00:577][528]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:00)
+[2018.01.28-10.37.00:577][528]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.00:596][528]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019627s)
+[2018.01.28-10.37.00:597][528]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.00:597][528]LogPlayLevel: PIE: World Init took: (0.000892s)
+[2018.01.28-10.37.00:598][528]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020950s)
+[2018.01.28-10.37.00:621][528]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.00:629][528]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.00:664][528]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.00:676][528]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.00
+[2018.01.28-10.37.00:677][528]LogWorld: Bringing up level for play took: 0.011658
+[2018.01.28-10.37.00:684][528]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.264
+[2018.01.28-10.37.01:464][556]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.05:758][789]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.37.06:610][789]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.37.06:642][789]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.37.06:651][789]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.37.06:654][789]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.37.06:664][789]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.37.06:885][789]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.37.06:959][789]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.37.07:200][789]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.37.07:221][789]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.08:008][789]LogPlayLevel: PlayLevel: Blueprint regeneration took 1398 ms (8 blueprints)
+[2018.01.28-10.37.08:009][789]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:08)
+[2018.01.28-10.37.08:009][789]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.08:027][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018530s)
+[2018.01.28-10.37.08:028][789]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.08:028][789]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2018.01.28-10.37.08:028][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.019613s)
+[2018.01.28-10.37.08:051][789]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.08:059][789]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.08:096][789]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.08:108][789]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.08
+[2018.01.28-10.37.08:109][789]LogWorld: Bringing up level for play took: 0.011489
+[2018.01.28-10.37.08:115][789]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.697
+[2018.01.28-10.37.08:902][817]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.12:612][ 13]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.37.12:734][ 13]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.37.12:762][ 13]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.37.12:771][ 13]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.37.12:775][ 13]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.37.12:790][ 13]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.37.13:009][ 13]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.37.13:078][ 13]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.37.13:302][ 13]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.37.13:322][ 13]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.14:116][ 13]LogPlayLevel: PlayLevel: Blueprint regeneration took 1380 ms (8 blueprints)
+[2018.01.28-10.37.14:116][ 13]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:14)
+[2018.01.28-10.37.14:116][ 13]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.14:135][ 13]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019238s)
+[2018.01.28-10.37.14:136][ 13]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.14:136][ 13]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.01.28-10.37.14:136][ 13]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020302s)
+[2018.01.28-10.37.14:159][ 13]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.14:167][ 13]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.14:204][ 13]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.14:216][ 13]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.14
+[2018.01.28-10.37.14:217][ 13]LogWorld: Bringing up level for play took: 0.011803
+[2018.01.28-10.37.14:223][ 13]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.804
+[2018.01.28-10.37.15:000][ 41]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.18:914][248]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.37.19:049][248]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.37.19:077][248]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.37.19:086][248]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.37.19:090][248]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.37.19:100][248]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.37.19:336][248]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.37.19:405][248]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.37.19:628][248]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.37.19:649][248]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.20:407][248]LogPlayLevel: PlayLevel: Blueprint regeneration took 1358 ms (8 blueprints)
+[2018.01.28-10.37.20:408][248]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:20)
+[2018.01.28-10.37.20:408][248]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.20:427][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019378s)
+[2018.01.28-10.37.20:428][248]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.20:428][248]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2018.01.28-10.37.20:428][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020396s)
+[2018.01.28-10.37.20:450][248]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.20:459][248]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.20:492][248]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.20:504][248]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.20
+[2018.01.28-10.37.20:505][248]LogWorld: Bringing up level for play took: 0.011524
+[2018.01.28-10.37.20:511][248]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 1.092
+[2018.01.28-10.37.21:290][274]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.24:590][403]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.37.24:705][403]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.37.24:735][403]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.37.24:744][403]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.37.24:747][403]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.37.24:759][403]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.37.24:986][403]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.37.25:056][403]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.37.25:287][403]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.37.25:308][403]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.26:065][403]LogPlayLevel: PlayLevel: Blueprint regeneration took 1359 ms (8 blueprints)
+[2018.01.28-10.37.26:065][403]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:26)
+[2018.01.28-10.37.26:065][403]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.26:083][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017960s)
+[2018.01.28-10.37.26:083][403]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.26:084][403]LogPlayLevel: PIE: World Init took: (0.000703s)
+[2018.01.28-10.37.26:084][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.018989s)
+[2018.01.28-10.37.26:105][403]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.26:113][403]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.26:153][403]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.26:165][403]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.26
+[2018.01.28-10.37.26:166][403]LogWorld: Bringing up level for play took: 0.011503
+[2018.01.28-10.37.26:172][403]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 0.753
+[2018.01.28-10.37.26:933][430]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.35:978][936]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.37.36:116][936]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.28-10.37.36:147][936]LogPlayLevel: [PlayLevel] Compiling BP_Camera before play...
+[2018.01.28-10.37.36:155][936]LogPlayLevel: [PlayLevel]   Compiling BP_Checkpoint as a dependent...
+[2018.01.28-10.37.36:158][936]LogPlayLevel: [PlayLevel]   Compiling BP_Door as a dependent...
+[2018.01.28-10.37.36:168][936]LogPlayLevel: [PlayLevel]   Compiling BP_Vent as a dependent...
+[2018.01.28-10.37.36:388][936]LogPlayLevel: [PlayLevel]   Compiling AI_Enemy as a dependent...
+[2018.01.28-10.37.36:462][936]LogPlayLevel: [PlayLevel]   Compiling Player_HUD as a dependent...
+[2018.01.28-10.37.36:686][936]LogPlayLevel: [PlayLevel]   Compiling ThirdPersonCharacter as a dependent...
+[2018.01.28-10.37.36:707][936]LogPlayLevel: [PlayLevel]   Compiling BTS_SightLine_New as a dependent...
+[2018.01.28-10.37.37:478][936]LogPlayLevel: PlayLevel: Blueprint regeneration took 1361 ms (8 blueprints)
+[2018.01.28-10.37.37:478][936]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:37:37)
+[2018.01.28-10.37.37:478][936]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.37.37:497][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018793s)
+[2018.01.28-10.37.37:498][936]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.37.37:498][936]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.01.28-10.37.37:498][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.020046s)
+[2018.01.28-10.37.37:521][936]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.37.37:529][936]LogInit: FAudioDevice initialized.
+[2018.01.28-10.37.37:565][936]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.37.37:577][936]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.37.37
+[2018.01.28-10.37.37:578][936]LogWorld: Bringing up level for play took: 0.012151
+[2018.01.28-10.37.37:586][936]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 2.166
+[2018.01.28-10.37.38:357][964]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.39:369][ 12]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.40:371][ 60]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.41:375][108]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.42:389][155]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.43:408][203]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.44:418][251]LogBlueprintUserMessages: [AI_Enemy_1283] 0.922187
+[2018.01.28-10.37.45:433][299]LogBlueprintUserMessages: [AI_Enemy_1283] 0.82067
+[2018.01.28-10.37.46:451][347]LogBlueprintUserMessages: [AI_Enemy_1283] 0.718853
+[2018.01.28-10.37.47:468][396]LogBlueprintUserMessages: [AI_Enemy_1283] 0.617136
+[2018.01.28-10.37.48:473][444]LogBlueprintUserMessages: [AI_Enemy_1283] 0.51672
+[2018.01.28-10.37.49:480][491]LogBlueprintUserMessages: [AI_Enemy_1283] 0.415928
+[2018.01.28-10.37.50:484][539]LogBlueprintUserMessages: [AI_Enemy_1283] 0.315741
+[2018.01.28-10.37.51:490][587]LogBlueprintUserMessages: [AI_Enemy_1283] 0.214949
+[2018.01.28-10.37.52:496][635]LogBlueprintUserMessages: [AI_Enemy_1283] 0.114348
+[2018.01.28-10.37.53:511][683]LogBlueprintUserMessages: [AI_Enemy_1283] 0.012846
+[2018.01.28-10.37.53:624][688]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2018.01.28-10.37.53:624][688]LogBlueprintUserMessages: [Enemy_AI_Controller_C_0] AI_Enemy
+[2018.01.28-10.37.54:526][729]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.55:529][776]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.55:638][781]LogBlueprintUserMessages: [AI_Enemy_1283] Hello
+[2018.01.28-10.37.56:544][823]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.57:551][869]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.37.58:571][916]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.38.39:624][451]LogSavePackage: Save=12701.13ms
+[2018.01.28-10.38.39:624][451]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/GJ_GroupC_Level_1_Auto1553353B6466EA06D6726E59CD3865739.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/Levels/GJ_GroupC_Level_1_Auto1.umap'
+[2018.01.28-10.38.39:652][451]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/Levels/GJ_GroupC_Level_1_Auto1.umap
+[2018.01.28-10.38.40:399][451]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/GJ_GroupC_Level_1' took 15.223
+[2018.01.28-10.38.40:399][451]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 15.223
+[2018.01.28-10.38.40:422][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter] ([1] browsable assets)...
+[2018.01.28-10.38.40:502][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter]
+[2018.01.28-10.38.40:502][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter]
+[2018.01.28-10.38.44:619][451]LogSavePackage: Save=2434.29ms
+[2018.01.28-10.38.44:619][451]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacter_Auto1765281D0418D97696440C99F7329A613.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset'
+[2018.01.28-10.38.44:642][451]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter_Auto1.uasset
+[2018.01.28-10.38.44:642][451]LogFileHelpers: Auto-saving content packages took 4.225
+[2018.01.28-10.39.27:790][186]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.01.28-10.39.28:689][186]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.28-10.39.28:689][186]PIE: New page: PIE session: GJ_GroupC_Level_1 (28 Jan 2018 10:39:28)
+[2018.01.28-10.39.28:689][186]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1
+[2018.01.28-10.39.28:711][186]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021960s)
+[2018.01.28-10.39.28:712][186]LogAIModule: Creating AISystem for world GJ_GroupC_Level_1
+[2018.01.28-10.39.28:712][186]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2018.01.28-10.39.28:712][186]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/GJ_GroupC_Level_1.GJ_GroupC_Level_1 to /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 (0.023107s)
+[2018.01.28-10.39.28:736][186]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.28-10.39.28:745][186]LogInit: FAudioDevice initialized.
+[2018.01.28-10.39.28:786][186]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.01.28-10.39.28:798][186]LogWorld: Bringing World /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1.GJ_GroupC_Level_1 up for play (max tick rate 0) at 2018.01.28-10.39.28
+[2018.01.28-10.39.28:799][186]LogWorld: Bringing up level for play took: 0.011718
+[2018.01.28-10.39.28:808][186]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_GJ_GroupC_Level_1 -0.615
+[2018.01.28-10.39.29:462][235]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.30:466][317]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.31:476][399]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.32:478][486]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.33:489][570]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.34:490][653]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.35:500][736]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.36:502][818]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.37:508][902]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.38:520][988]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.39:522][ 74]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.40:524][160]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.41:526][242]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.42:528][326]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.43:530][410]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.44:539][495]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.45:546][580]LogBlueprintUserMessages: [AI_Enemy_1283] 1.0
+[2018.01.28-10.39.50:289][929]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.28-10.39.52:102][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset" SILENT=true
+[2018.01.28-10.39.54:743][929]LogSavePackage: Save=2466.29ms
+[2018.01.28-10.39.54:744][929]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/ThirdPersonCharacter080BB63342CFB05B6AE46799132C470A.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.01.28-10.39.54:810][929]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.01.28-10.40.08:257][929]LogSourceControl: FGitCheckInWorker: commit successful
+[2018.01.28-10.40.09:097][929]SourceControl: [master aa97984] update
+[2018.01.28-10.40.09:097][929]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.01.28-10.40.09:097][929]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/Player_HUD.uasset (70%)
+[2018.01.28-10.40.09:097][929]SourceControl:  rewrite GGJ_2018_Group_C/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset (77%)
+[2018.01.28-10.40.09:101][929]SourceControl: Commited [master aa97984] update.
+[2018.01.28-10.41.02:987][ 29]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.17/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.17/Engine/Content/' is outside repository
+[2018.01.28-10.41.03:129][ 29]EditorErrors: Warning: No assets to check in!
+[2018.01.28-10.41.34:921][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/GJ_GroupC_Level_1" FILE="G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Levels/GJ_GroupC_Level_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.01.28-10.41.49:101][ 24]LogSavePackage: Save=13213.86ms
+[2018.01.28-10.41.49:101][ 24]LogSavePackage: Moving 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/GJ_GroupC_Level_1C0397AC142593FD719D9FA8EFF9EEE55.tmp' to 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Levels/GJ_GroupC_Level_1.umap'
+[2018.01.28-10.41.49:894][ 24]LogSavePackage: Display: Finished SavePackage G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Levels/GJ_GroupC_Level_1.umap
+[2018.01.28-10.41.50:914][ 24]LogFileHelpers: Saving map 'GJ_GroupC_Level_1' took 16.384
+[2018.01.28-10.41.52:313][ 24]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.28-10.41.54:198][ 25]Cmd: QUIT_EDITOR
+[2018.01.28-10.41.54:880][ 25]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.28-10.41.54:906][ 25]LogExit: Preparing to exit.
+[2018.01.28-10.41.55:575][ 25]LogExit: Editor shut down
+[2018.01.28-10.41.55:579][ 25]LogExit: Transaction tracking system shut down
+[2018.01.28-10.41.58:557][ 25]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.28-10.41.58:557][ 25]LogDirectoryWatcher: A directory notification for 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/' was aborted.
+[2018.01.28-10.41.58:558][ 25]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.28-10.41.58:558][ 25]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.28-10.41.58:558][ 25]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.28-10.41.58:658][ 25]LogExit: Object subsystem successfully closed.
+[2018.01.28-10.41.58:676][ 25]LogD3D11RHI: Shutdown
+[2018.01.28-10.41.58:676][ 25]LogD3D11RHI: CleanupD3DDevice
+[2018.01.28-10.41.58:866][ 25]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (540)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module SequencerWidgets (538)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module BlueprintGraph (536)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (534)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (532)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.01.28-10.41.58:893][ 25]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.01.28-10.41.58:893][ 25]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.17/FeaturePacks/' was aborted.
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.01.28-10.41.58:894][ 25]LogDirectoryWatcher: A directory notification for 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Collections/' was aborted.
+[2018.01.28-10.41.58:894][ 25]LogDirectoryWatcher: A directory notification for 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Content/Developers/LEEverson/Collections/' was aborted.
+[2018.01.28-10.41.58:894][ 25]LogDirectoryWatcher: A directory notification for 'G:/GGJ-2018/GGJ-2018/GGJ_2018_Group_C/Saved/Collections/' was aborted.
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.01.28-10.41.58:894][ 25]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.01.28-10.41.58:895][ 25]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (480)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (478)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module Media (477)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (474)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module CharacterAI (472)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AudioCapture (470)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module SequenceRecorder (469)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module SmartSnapping (466)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module SessionServices (464)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module ViewportSnapping (462)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module ViewportInteraction (460)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module ClothPainter (458)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module LogVisualizer (456)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module IntroTutorials (454)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (453)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (450)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (448)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (446)
+[2018.01.28-10.41.58:897][ 25]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (445)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (442)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (440)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (438)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module InputBindingEditor (436)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module MergeActors (434)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module SizeMap (432)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module TreeMap (430)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module ReferenceViewer (428)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (426)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module LocalizationService (425)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module HardwareTargeting (422)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (420)
+[2018.01.28-10.41.59:665][ 25]LogModuleManager: Shutting down and abandoning module UndoHistory (418)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module XmlParser (416)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module Blutility (414)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (412)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (411)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (408)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module SettingsEditor (406)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module ProjectLauncher (404)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module SessionFrontend (402)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module ProfilerClient (400)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module DeviceManager (398)
+[2018.01.28-10.41.59:666][ 25]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (397)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module AutomationController (394)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module AutomationWindow (392)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module Layers (390)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (388)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module DetailCustomizations (386)
+[2018.01.28-10.41.59:729][ 25]LogModuleManager: Shutting down and abandoning module PackagesDialog (384)
+[2018.01.28-10.41.59:730][ 25]LogModuleManager: Shutting down and abandoning module Persona (382)
+[2018.01.28-10.41.59:730][ 25]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (381)
+[2018.01.28-10.41.59:730][ 25]LogModuleManager: Shutting down and abandoning module AnimGraph (379)
+[2018.01.28-10.41.59:730][ 25]LogModuleManager: Shutting down and abandoning module Kismet (376)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module ClassViewer (374)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module Toolbox (372)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module ModuleUI (370)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneTools (368)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module OutputLog (366)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module GammaUI (364)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module Documentation (362)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (360)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module MovieScene (358)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2018.01.28-10.41.59:737][ 25]LogModuleManager: Shutting down and abandoning module NiagaraEditor (355)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (352)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module LauncherPlatform (350)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module AnalyticsET (348)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module PortalServices (346)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module PortalRpc (344)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module MessagingRpc (342)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module AIModule (340)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module GameplayDebugger (339)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module AITestSuite (337)
+[2018.01.28-10.41.59:738][ 25]LogModuleManager: Shutting down and abandoning module ProfilerService (334)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module TaskGraph (332)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module SteamVRController (330)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (328)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (326)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module OculusInput (324)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (322)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (320)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module CableComponent (318)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (316)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module AndroidPermission (314)
+[2018.01.28-10.41.59:878][ 25]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (310)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module HTML5Networking (308)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module AlembicImporter (306)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module AlembicLibrary (305)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module GeometryCache (304)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (303)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (298)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module PluginBrowser (296)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (294)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (292)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module DesktopPlatform (291)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module UObjectPlugin (288)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (286)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (284)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module GitSourceControl (282)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module SourceControl (281)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (278)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (276)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (274)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module Paper2DEditor (272)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module MeshPaint (271)
+[2018.01.28-10.41.59:879][ 25]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module MainFrame (266)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module HotReload (265)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (260)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (258)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module PhysXVehicles (256)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module OculusEditor (254)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (252)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (250)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (248)
+[2018.01.28-10.41.59:880][ 25]LogModuleManager: Shutting down and abandoning module UdpMessaging (246)
+[2018.01.28-10.41.59:981][ 25]LogModuleManager: Shutting down and abandoning module TcpMessaging (244)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (242)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (240)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module FacialAnimation (238)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (236)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module GraphEditor (235)
+[2018.01.28-10.42.00:082][ 25]LogModuleManager: Shutting down and abandoning module ContentBrowser (233)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (230)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module Paper2D (228)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (226)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module WmfMedia (224)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module PacketHandler (222)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (220)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (218)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module Overlay (216)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module OverlayEditor (215)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module MediaAssets (212)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module VREditor (210)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module StringTableEditor (208)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (206)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (204)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module FunctionalTesting (202)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (200)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (199)
+[2018.01.28-10.42.00:083][ 25]LogModuleManager: Shutting down and abandoning module UMG (196)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module UMGEditor (195)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module Sequencer (194)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module MessageLog (191)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module SlateReflector (186)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module Slate (184)
+[2018.01.28-10.42.00:084][ 25]LogModuleManager: Shutting down and abandoning module EditorStyle (182)
+[2018.01.28-10.42.00:086][ 25]LogModuleManager: Shutting down and abandoning module MRMesh (180)
+[2018.01.28-10.42.00:086][ 25]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (178)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (176)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module XAudio2 (174)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module Networking (172)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module Core (168)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module LevelSequence (162)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module MeshUtilities (160)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (159)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (158)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (157)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (155)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (153)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module MaterialBaking (149)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (146)
+[2018.01.28-10.42.00:087][ 25]LogModuleManager: Shutting down and abandoning module DerivedDataCache (144)
+[2018.01.28-10.42.00:134][ 25]LogDerivedDataCache: Shutdown
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module TargetPlatform (142)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (141)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (139)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (137)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (135)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (133)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (131)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (129)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (127)
+[2018.01.28-10.42.00:134][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (125)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (123)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module ImageWrapper (122)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (119)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (117)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (115)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (113)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (111)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (109)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (107)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (105)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (103)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Messaging (101)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (99)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (97)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (95)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (93)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (91)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (89)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (87)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (85)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (83)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (81)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (79)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (77)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (75)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (73)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (71)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (69)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (67)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (65)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (63)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module InputCore (60)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module Settings (58)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module PhysXCooking (56)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module SteamVR (54)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module OculusHMD (52)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (50)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.28-10.42.00:135][ 25]LogOnline: Display: Unloading online subsystem: NULL
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.28-10.42.00:135][ 25]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.28-10.42.00:135][ 25]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.28-10.42.00:136][ 25]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BE5DA5099-45B3-7833-D607-A4915B46C660%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=462c4607453fbf241ffae8b6eee9c135%7C78cdeddd2a2040eb8a7b15d73ec5c1d1%7C2663cc60-6ba1-4fdd-b8c4-d1ee4e7e6e50&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.28-10.42.00:160][ 25]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.28-10.42.00:161][ 25]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.28-10.42.00:163][ 25]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.28-10.42.00:166][ 25]LogExit: Exiting.
+[2018.01.28-10.42.00:278][ 25]Log file closed, 01/28/18 10:42:00
+>>>>>>> baabea3390e0f742b5df726b7ba8b11493806287
